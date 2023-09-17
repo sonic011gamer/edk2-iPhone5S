@@ -41,9 +41,11 @@
   gEXYNOS7885PkgTokenSpaceGuid.PcdUefiMemPoolBase|0|UINT64|0x00000a106
   gEXYNOS7885PkgTokenSpaceGuid.PcdUefiMemPoolSize|0|UINT32|0x00000a107
 
+  gEmbeddedTokenSpaceGuid.PcdPrePiStackBase|0x800C00000|UINT64|0x0000a406
+
   # Simple FrameBuffer
   gEfiMdeModulePkgTokenSpaceGuid.PcdEmuVariableNvModeEnable|TRUE|BOOLEAN|1
-  gEXYNOS7885PkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x00400000|UINT32|0x0000a400 # 0x7C400000
+  gEXYNOS7885PkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x80400000|UINT64|0x0000a400 # 0x7C400000
   gEXYNOS7885PkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1080|UINT32|0x0000a401
   gEXYNOS7885PkgTokenSpaceGuid.PcdMipiFrameBufferHeight|1920|UINT32|0x0000a402
   gEXYNOS7885PkgTokenSpaceGuid.PcdMipiFrameBufferPixelBpp|32|UINT32|0x0000a403
