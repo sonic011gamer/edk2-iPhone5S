@@ -1,9 +1,0 @@
--I/home/parallels/Desktop/edk2/ArmPkg/Library/CompilerIntrinsicsLib/AArch64
--I/home/parallels/Desktop/edk2/ArmPkg/Library/CompilerIntrinsicsLib
--I/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/DEBUG
--I/home/parallels/Desktop/edk2/MdePkg
--I/home/parallels/Desktop/edk2/MdePkg/Include
--I/home/parallels/Desktop/edk2/MdePkg/Test/UnitTest/Include
--I/home/parallels/Desktop/edk2/MdePkg/Include/AArch64
--I/home/parallels/Desktop/edk2/ArmPkg
--I/home/parallels/Desktop/edk2/ArmPkg/Include

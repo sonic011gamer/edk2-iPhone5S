@@ -1,6 +1,0 @@
-/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/ArmPlatformStackLib/ArmPlatformStackLib/DEBUG/AutoGen.h
-/home/parallels/Desktop/edk2/ArmPkg/Include/AsmMacroIoLibV8.h
-/home/parallels/Desktop/edk2/ArmPlatformPkg/Library/ArmPlatformStackLib/AArch64/ArmPlatformStackLib.S
-/home/parallels/Desktop/edk2/MdePkg/Include/AArch64/ProcessorBind.h
-/home/parallels/Desktop/edk2/MdePkg/Include/Base.h
-/home/parallels/Desktop/edk2/MdePkg/Include/Library/PcdLib.h

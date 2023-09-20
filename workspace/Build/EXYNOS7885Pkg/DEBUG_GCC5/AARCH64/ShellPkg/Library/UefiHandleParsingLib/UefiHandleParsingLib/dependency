@@ -1,7 +1,0 @@
-
-
--include /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiHandleParsingLib/UefiHandleParsingLib/OUTPUT/AutoGen.obj.deps
-
--include /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiHandleParsingLib/UefiHandleParsingLib/OUTPUT/UefiHandleParsingLib.obj.deps
-
-               

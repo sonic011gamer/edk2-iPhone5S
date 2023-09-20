@@ -1,9 +1,0 @@
-/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseUefiDecompressLib/BaseUefiDecompressLib/DEBUG/AutoGen.h
-/home/parallels/Desktop/edk2/MdePkg/Include/AArch64/ProcessorBind.h
-/home/parallels/Desktop/edk2/MdePkg/Include/Base.h
-/home/parallels/Desktop/edk2/MdePkg/Include/Library/BaseLib.h
-/home/parallels/Desktop/edk2/MdePkg/Include/Library/BaseMemoryLib.h
-/home/parallels/Desktop/edk2/MdePkg/Include/Library/DebugLib.h
-/home/parallels/Desktop/edk2/MdePkg/Include/Library/UefiDecompressLib.h
-/home/parallels/Desktop/edk2/MdePkg/Library/BaseUefiDecompressLib/BaseUefiDecompressLib.c
-/home/parallels/Desktop/edk2/MdePkg/Library/BaseUefiDecompressLib/BaseUefiDecompressLibInternals.h
