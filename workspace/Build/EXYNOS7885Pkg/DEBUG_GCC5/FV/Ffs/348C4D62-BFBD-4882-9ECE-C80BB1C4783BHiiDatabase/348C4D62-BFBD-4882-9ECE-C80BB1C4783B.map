@@ -1,0 +1,2171 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memcpy.obj)
+                              /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memcpy)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memset.obj)
+                              /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memset)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib(BaseStackCheckGcc.obj)
+                              /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (__stack_chk_fail)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(AutoGen.obj)
+                              DriverEntryPoint.obj (symbol from plugin) (ProcessLibraryConstructorList)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(HiiDatabaseEntry.obj)
+                              AutoGen.obj (symbol from plugin) (InitializeHiiDatabase)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(Image.obj)
+                              HiiDatabaseEntry.obj (symbol from plugin) (HiiNewImage)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(ImageEx.obj)
+                              HiiDatabaseEntry.obj (symbol from plugin) (HiiNewImageEx)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(ConfigRouting.obj)
+                              HiiDatabaseEntry.obj (symbol from plugin) (HiiConfigRoutingExportConfig)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(String.obj)
+                              HiiDatabaseEntry.obj (symbol from plugin) (HiiGetLanguages)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(Database.obj)
+                              String.obj (symbol from plugin) (IsHiiHandleValid)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(Font.obj)
+                              Database.obj (symbol from plugin) (FindGlyphBlock)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(ConfigKeywordHandler.obj)
+                              HiiDatabaseEntry.obj (symbol from plugin) (EfiConfigKeywordHandlerSetData)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib(DxePcdLib.obj)
+                              Database.obj (symbol from plugin) (LibPcdGetExPtr)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(MemLibGuid.obj)
+                              ConfigRouting.obj (symbol from plugin) (CopyGuid)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(ZeroMemWrapper.obj)
+                              Image.obj (symbol from plugin) (ZeroMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMemWrapper.obj)
+                              Image.obj (symbol from plugin) (CompareMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem32Wrapper.obj)
+                              Font.obj (symbol from plugin) (SetMem32)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMemWrapper.obj)
+                              Image.obj (symbol from plugin) (CopyMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+                              SetMem32Wrapper.obj (symbol from plugin) (InternalMemSetMem32)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+                              MemLibGuid.obj (symbol from plugin) (InternalMemCopyMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMem.obj)
+                              CompareMemWrapper.obj (symbol from plugin) (InternalMemCompareMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+                              MemLibGuid.obj (symbol from plugin) (InternalMemCompareGuid)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              ConfigRouting.obj (symbol from plugin) (LShiftU64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              Database.obj (symbol from plugin) (BitFieldRead32)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuDeadLoop)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              HiiDatabaseEntry.obj (symbol from plugin) (InitializeListHead)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              ConfigRouting.obj (symbol from plugin) (StrnLenS)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              ConfigRouting.obj (symbol from plugin) (StrLen)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              Image.obj (symbol from plugin) (ReadUnaligned16)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              LShiftU64.obj (symbol from plugin) (InternalMathLShiftU64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              CpuDeadLoop.obj (symbol from plugin) (CpuPause)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuBreakpoint)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes32)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes16)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              BitField.obj (symbol from plugin) (RShiftU64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              SafeString.obj (symbol from plugin) (MultU64x32)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              SafeString.obj (symbol from plugin) (DivU64x32)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              ConfigRouting.obj (symbol from plugin) (UnicodeSPrint)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              PrintLib.obj (symbol from plugin) (BasePrintLibConvertValueToStringS)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib(DebugLib.obj)
+                              AutoGen.obj (symbol from plugin) (BaseDebugLibSerialPortConstructor)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              Image.obj (symbol from plugin) (AllocatePool)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiRuntimeServicesTableLibConstructor)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiBootServicesTableLibConstructor)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              ConfigRouting.obj (symbol from plugin) (DevicePathNodeLength)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilitiesDxeSmm.obj)
+                              ConfigRouting.obj (symbol from plugin) (DevicePathFromHandle)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              ConfigRouting.obj (symbol from plugin) (GetDevicePathSize)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertDeviceNodeToText)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertTextToDeviceNode)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              HiiDatabaseEntry.obj (symbol from plugin) (EfiCreateEventReadyToBootEx)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              UefiNotTiano.obj (symbol from plugin) (EfiEventEmptyFunction)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              AutoGen.obj (symbol from plugin) (HobLibConstructor)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMemWrapper.obj)
+                              DebugLib.obj (symbol from plugin) (SetMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem64Wrapper.obj)
+                              SetMemWrapper.obj (symbol from plugin) (SetMem64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              DevicePathFromText.obj (symbol from plugin) (SwapBytes64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              PrintLibInternal.obj (symbol from plugin) (DivU64x32Remainder)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              DebugLib.obj (symbol from plugin) (GetDebugPrintErrorLevel)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib(FrameBufferSerialPortLib.obj)
+                              DebugLib.obj (symbol from plugin) (SerialPortInitialize)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmGetInterruptState)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmEnableInterrupts)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib(ArmCacheMaintenanceLib.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (WriteBackInvalidateDataCacheRange)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLib.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmDataCacheLineLength)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmInvalidateDataCacheEntryByMVA)
+
+Discarded input sections
+
+ .text          0x0000000000000000       0x10 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .text          0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.__memset
+                0x0000000000000000       0x1c /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata._gDriverUnloadImageCount
+                0x0000000000000000        0x1 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdDebugPropertyMask
+                0x0000000000000000        0x1 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdFixedDebugPrintErrorLevel
+                0x0000000000000000        0x4 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata._gUefiDriverRevision
+                0x0000000000000000        0x4 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2c /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.IsNodeInList.str1.1
+                0x0000000000000000       0x44 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.IsNodeInList
+                0x0000000000000000       0xa0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000000000        0x4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.gHeight
+                0x0000000000000000        0x8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.gWidth
+                0x0000000000000000        0x8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x2c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .text.EfiEventEmptyFunction
+                0x0000000000000000        0x4 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x2c /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x2c /tmp/cc2TgWMh.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc2TgWMh.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccHsxt3V.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccHsxt3V.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccn9oFFC.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccn9oFFC.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc7qUeLm.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc7qUeLm.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccQ8R2Rk.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQ8R2Rk.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccdrurys.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccdrurys.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cctF1saa.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cctF1saa.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc9bWshu.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc9bWshu.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccCcKoMd.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccCcKoMd.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccIg6RdS.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccIg6RdS.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cczpsSqS.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cczpsSqS.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccMIQUIA.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccMIQUIA.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccOCEjPZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccOCEjPZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccZWJyLc.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZWJyLc.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccbxp0lG.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccbxp0lG.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc6TWOOo.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc6TWOOo.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc2F7358.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc2F7358.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cclzbdDk.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cclzbdDk.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccdaJtiK.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccdaJtiK.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccxw8pyr.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxw8pyr.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccQHqCJB.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQHqCJB.debug.temp.o
+ .debug_info    0x0000000000000000       0x9e /tmp/ccWDXs5c.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x70 /tmp/ccWDXs5c.debug.temp.o
+ .debug_line    0x0000000000000000       0x4c /tmp/ccWDXs5c.debug.temp.o
+ .debug_str     0x0000000000000000      0x213 /tmp/ccWDXs5c.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x17e /tmp/ccWDXs5c.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccWDXs5c.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccWDXs5c.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccLdDwKL.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccLdDwKL.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccsaA6Y1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccsaA6Y1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccuTSIuf.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccuTSIuf.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccdfbTl1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccdfbTl1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccXR7dpe.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccXR7dpe.debug.temp.o
+ .debug_info    0x0000000000000000       0xbd /tmp/ccxOYuSl.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x88 /tmp/ccxOYuSl.debug.temp.o
+ .debug_line    0x0000000000000000       0x4c /tmp/ccxOYuSl.debug.temp.o
+ .debug_str     0x0000000000000000      0x22e /tmp/ccxOYuSl.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x17e /tmp/ccxOYuSl.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccxOYuSl.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxOYuSl.debug.temp.o
+ .debug_info    0x0000000000000000       0x8a /tmp/ccfsVZH7.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x57 /tmp/ccfsVZH7.debug.temp.o
+ .debug_line    0x0000000000000000       0x43 /tmp/ccfsVZH7.debug.temp.o
+ .debug_str     0x0000000000000000      0x204 /tmp/ccfsVZH7.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x140 /tmp/ccfsVZH7.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccfsVZH7.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccfsVZH7.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc2d4kcQ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc2d4kcQ.debug.temp.o
+ .debug_info    0x0000000000000000       0xc1 /tmp/ccLjT2mB.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x88 /tmp/ccLjT2mB.debug.temp.o
+ .debug_line    0x0000000000000000       0x48 /tmp/ccLjT2mB.debug.temp.o
+ .debug_str     0x0000000000000000      0x23a /tmp/ccLjT2mB.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x151 /tmp/ccLjT2mB.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccLjT2mB.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccLjT2mB.debug.temp.o
+ .debug_info    0x0000000000000000      0x10b /tmp/cc8oqsvI.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb2 /tmp/cc8oqsvI.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/cc8oqsvI.debug.temp.o
+ .debug_str     0x0000000000000000      0x25d /tmp/cc8oqsvI.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x18e /tmp/cc8oqsvI.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc8oqsvI.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8oqsvI.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cciijJee.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cciijJee.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc5205iU.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc5205iU.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccy6SngB.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccy6SngB.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccaCOGcV.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccaCOGcV.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc8zSr4K.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8zSr4K.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccx4cNdA.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccx4cNdA.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccjD7Hja.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccjD7Hja.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccT5upfo.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccT5upfo.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc6Sxguv.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc6Sxguv.debug.temp.o
+ .debug_info    0x0000000000000000     0x25cc /tmp/cc0wljHo.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x2bf /tmp/cc0wljHo.debug.temp.o
+ .debug_line    0x0000000000000000       0xa5 /tmp/cc0wljHo.debug.temp.o
+ .debug_str     0x0000000000000000     0x145f /tmp/cc0wljHo.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x3ef /tmp/cc0wljHo.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc0wljHo.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc0wljHo.debug.temp.o
+ .debug_info    0x0000000000000000     0x2ed7 /tmp/ccrgw8Jv.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x2a4 /tmp/ccrgw8Jv.debug.temp.o
+ .debug_line    0x0000000000000000       0x9b /tmp/ccrgw8Jv.debug.temp.o
+ .debug_str     0x0000000000000000     0x1e24 /tmp/ccrgw8Jv.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x3dd /tmp/ccrgw8Jv.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccrgw8Jv.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrgw8Jv.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccg9HgHi.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccg9HgHi.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccMzxfzf.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccMzxfzf.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccEGO2O4.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccEGO2O4.debug.temp.o
+ .debug_info    0x0000000000000000      0x17a /tmp/ccfzrwcp.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xce /tmp/ccfzrwcp.debug.temp.o
+ .debug_line    0x0000000000000000       0x56 /tmp/ccfzrwcp.debug.temp.o
+ .debug_str     0x0000000000000000      0x270 /tmp/ccfzrwcp.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x1d5 /tmp/ccfzrwcp.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccfzrwcp.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccfzrwcp.debug.temp.o
+ .debug_info    0x0000000000000000      0x114 /tmp/ccMLZ5lb.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb8 /tmp/ccMLZ5lb.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/ccMLZ5lb.debug.temp.o
+ .debug_str     0x0000000000000000      0x256 /tmp/ccMLZ5lb.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x1c9 /tmp/ccMLZ5lb.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccMLZ5lb.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccMLZ5lb.debug.temp.o
+ .debug_info    0x0000000000000000       0xa0 /tmp/ccvMcwKH.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x75 /tmp/ccvMcwKH.debug.temp.o
+ .debug_line    0x0000000000000000       0x48 /tmp/ccvMcwKH.debug.temp.o
+ .debug_str     0x0000000000000000      0x21c /tmp/ccvMcwKH.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x153 /tmp/ccvMcwKH.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccvMcwKH.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvMcwKH.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc4pMv4N.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4pMv4N.debug.temp.o
+ .debug_info    0x0000000000000000       0xb3 /tmp/ccppnC6R.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x88 /tmp/ccppnC6R.debug.temp.o
+ .debug_line    0x0000000000000000       0x4c /tmp/ccppnC6R.debug.temp.o
+ .debug_str     0x0000000000000000      0x260 /tmp/ccppnC6R.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x260 /tmp/ccppnC6R.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccppnC6R.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccppnC6R.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccDTTCSF.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccDTTCSF.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccuWlLz6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccuWlLz6.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccsdQBTH.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccsdQBTH.debug.temp.o
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMem.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMem.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+ .text          0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .text          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadMidr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetFiqState
+                0x0000000000000000       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpacr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteAuxCr
+                0x0000000000000000       0x28 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadAuxCr
+                0x0000000000000000       0x28 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTTBR0
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTTBR0BaseAddress
+                0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTCR
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTCR
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetMAIR
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetMAIR
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmUpdateTranslationTableEntry
+                0x0000000000000000       0x54 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmInvalidateTlb
+                0x0000000000000000       0x38 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCptr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteScr
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteMVBar
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallWFE
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallSEV
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadCpuActlr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpuActlr
+                0x0000000000000000       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadSctlr
+                0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteSctlr
+                0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetPhysicalAddressBits
+                0x0000000000000000       0x24 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmIsMpCore
+                0x0000000000000000       0x14 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableAsynchronousAbort
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAsynchronousAbort
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableIrq
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableIrq
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableFiq
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableFiq
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAllExceptions
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCCSIDR
+                0x0000000000000000       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCLIDR
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCache
+                0x0000000000000000       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableMmu
+                0x0000000000000000       0x88 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableMmu
+                0x0000000000000000       0x74 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableCachesAndMmu
+                0x0000000000000000       0x6c /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmMmuEnabled
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableDataCache
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableDataCache
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableInstructionCache
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableInstructionCache
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableAlignmentCheck
+                0x0000000000000000       0x58 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableAlignmentCheck
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableStackAlignmentCheck
+                0x0000000000000000       0x58 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableStackAlignmentCheck
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableBranchPrediction
+                0x0000000000000000        0x4 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableBranchPrediction
+                0x0000000000000000        0x4 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.AArch64AllDataCachesOperation
+                0x0000000000000000       0xa8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDataMemoryBarrier
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInstructionSynchronizationBarrier
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteVBar
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadVBar
+                0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableVFP
+                0x0000000000000000       0x64 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCallWFI
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdAA64Mmfr2
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadMpidr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadTpidrurw
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteTpidrurw
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmIsArchTimerImplemented
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdAA64Pfr0
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteHcr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadHcr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCurrentEL
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCntHctl
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteCntHctl
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+START GROUP
+LOAD /tmp/ccxoqHzJ.ltrans0.ltrans.o
+LOAD /tmp/ccxoqHzJ.ltrans1.ltrans.o
+LOAD /tmp/ccxoqHzJ.ltrans2.ltrans.o
+LOAD /tmp/cc2TgWMh.debug.temp.o
+LOAD /tmp/ccHsxt3V.debug.temp.o
+LOAD /tmp/ccn9oFFC.debug.temp.o
+LOAD /tmp/cc7qUeLm.debug.temp.o
+LOAD /tmp/ccQ8R2Rk.debug.temp.o
+LOAD /tmp/ccdrurys.debug.temp.o
+LOAD /tmp/cctF1saa.debug.temp.o
+LOAD /tmp/cc9bWshu.debug.temp.o
+LOAD /tmp/ccCcKoMd.debug.temp.o
+LOAD /tmp/ccIg6RdS.debug.temp.o
+LOAD /tmp/cczpsSqS.debug.temp.o
+LOAD /tmp/ccMIQUIA.debug.temp.o
+LOAD /tmp/ccOCEjPZ.debug.temp.o
+LOAD /tmp/ccZWJyLc.debug.temp.o
+LOAD /tmp/ccbxp0lG.debug.temp.o
+LOAD /tmp/cc6TWOOo.debug.temp.o
+LOAD /tmp/cc2F7358.debug.temp.o
+LOAD /tmp/cclzbdDk.debug.temp.o
+LOAD /tmp/ccdaJtiK.debug.temp.o
+LOAD /tmp/ccxw8pyr.debug.temp.o
+LOAD /tmp/ccQHqCJB.debug.temp.o
+LOAD /tmp/ccWDXs5c.debug.temp.o
+LOAD /tmp/ccLdDwKL.debug.temp.o
+LOAD /tmp/ccsaA6Y1.debug.temp.o
+LOAD /tmp/ccuTSIuf.debug.temp.o
+LOAD /tmp/ccdfbTl1.debug.temp.o
+LOAD /tmp/ccXR7dpe.debug.temp.o
+LOAD /tmp/ccxOYuSl.debug.temp.o
+LOAD /tmp/ccfsVZH7.debug.temp.o
+LOAD /tmp/cc2d4kcQ.debug.temp.o
+LOAD /tmp/ccLjT2mB.debug.temp.o
+LOAD /tmp/cc8oqsvI.debug.temp.o
+LOAD /tmp/cciijJee.debug.temp.o
+LOAD /tmp/cc5205iU.debug.temp.o
+LOAD /tmp/ccy6SngB.debug.temp.o
+LOAD /tmp/ccaCOGcV.debug.temp.o
+LOAD /tmp/cc8zSr4K.debug.temp.o
+LOAD /tmp/ccx4cNdA.debug.temp.o
+LOAD /tmp/ccjD7Hja.debug.temp.o
+LOAD /tmp/ccT5upfo.debug.temp.o
+LOAD /tmp/cc6Sxguv.debug.temp.o
+LOAD /tmp/cc0wljHo.debug.temp.o
+LOAD /tmp/ccrgw8Jv.debug.temp.o
+LOAD /tmp/ccg9HgHi.debug.temp.o
+LOAD /tmp/ccMzxfzf.debug.temp.o
+LOAD /tmp/ccEGO2O4.debug.temp.o
+LOAD /tmp/ccfzrwcp.debug.temp.o
+LOAD /tmp/ccMLZ5lb.debug.temp.o
+LOAD /tmp/ccvMcwKH.debug.temp.o
+LOAD /tmp/cc4pMv4N.debug.temp.o
+LOAD /tmp/ccppnC6R.debug.temp.o
+LOAD /tmp/ccDTTCSF.debug.temp.o
+LOAD /tmp/ccuWlLz6.debug.temp.o
+LOAD /tmp/ccsdQBTH.debug.temp.o
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/RegisterFilterLibNull/RegisterFilterLibNull/OUTPUT/FilterLibNull.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib
+END GROUP
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.gnu.version_d  0x0000000000000228        0x0
+ .gnu.version_d
+                0x0000000000000228        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version    0x0000000000000228        0x0
+ .gnu.version   0x0000000000000228        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version_r  0x0000000000000228        0x0
+ .gnu.version_r
+                0x0000000000000228        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.text           0x0000000000001000    0x1cd20
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.ProcessLibraryDestructorList
+                0x0000000000001000        0x4 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x0000000000001000                ProcessLibraryDestructorList
+ .text.HiiToLower
+                0x0000000000001004       0x94 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.AsciiHiiToLower
+                0x0000000000001098       0x6c /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.OnReadyToBoot
+                0x0000000000001104       0x58 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.LocateHiiImageDecoder
+                0x000000000000115c      0x168 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.GetImageIdOrAddress
+                0x00000000000012c4      0x274 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.CopyGopToRgbPixel
+                0x0000000000001538       0x84 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.CopyRgbToGopPixel
+                0x00000000000015bc       0x84 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.GetUnicodeStringTextOrSize
+                0x0000000000001640       0xb8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.Output8bitPixel
+                0x00000000000016f8      0x190 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.ImageToBlt
+                0x0000000000001888      0x148 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.LocatePackageList
+                0x00000000000019d0       0xc0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.IGetImage
+                0x0000000000001a90      0x5bc /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiGetImage
+                0x000000000000204c       0x84 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiGetImageEx
+                0x00000000000020d0       0x84 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiGetImageInfo
+                0x0000000000002154      0x1a0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiNewImage
+                0x00000000000022f4      0x294 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiNewImageEx
+                0x0000000000002588       0x80 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiSetImage
+                0x0000000000002608      0x2fc /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiSetImageEx
+                0x0000000000002904       0x80 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiDrawImage
+                0x0000000000002984      0x3fc /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiDrawImageId
+                0x0000000000002d80       0xc8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiDrawImageEx
+                0x0000000000002e48       0x98 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiDrawImageIdEx
+                0x0000000000002ee0       0xc8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.GetElementsFromRequest
+                0x0000000000002fa8       0x84 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.CalculateConfigStringLen
+                0x000000000000302c       0xac /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.AppendToMultiString
+                0x00000000000030d8       0xd4 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.GetValueOfNumber
+                0x00000000000031ac      0x158 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiBlockToConfig
+                0x0000000000003304      0x530 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiConfigToBlock
+                0x0000000000003834      0x3ac /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.MergeDefaultString
+                0x0000000000003be0      0x96c /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.InsertDefaultValue
+                0x000000000000454c       0xe4 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.InsertBlockData
+                0x0000000000004630       0xa0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.ReferFontInfoLocally
+                0x00000000000046d0      0x150 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.GetDevicePath.part.0
+                0x0000000000004820      0x19c /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.memcpy   0x00000000000049bc       0x20 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x00000000000049bc                memcpy
+ .text._ModuleEntryPoint
+                0x00000000000049dc      0x500 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x00000000000049dc                _ModuleEntryPoint
+ .text.__stack_chk_fail
+                0x0000000000004edc       0x4c /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x0000000000004edc                __stack_chk_fail
+ .text.GenerateSubStr
+                0x0000000000004f28      0x258 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x0000000000004f28                GenerateSubStr
+ .text.GetVarStoreType
+                0x0000000000005180      0x2a8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.IsThisVarstore
+                0x0000000000005428      0x194 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.IsThisPackageList
+                0x00000000000055bc      0x1e0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiConfigRoutingRouteConfig
+                0x000000000000579c      0x524 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiGetAltCfg
+                0x0000000000005cc0      0x3c4 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.GetSupportedLanguages
+                0x0000000000006084       0xf0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x0000000000006084                GetSupportedLanguages
+ .text.InternalGetString
+                0x0000000000006174      0x1ac /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.BlockArrayCheck
+                0x0000000000006320      0x110 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.IsThisOpcodeRequired
+                0x0000000000006430      0x1cc /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.GetFullStringFromHiiFormPackages.part.0
+                0x00000000000065fc     0x1ab0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiConfigRoutingExtractConfig
+                0x00000000000080ac      0xa8c /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiConfigRoutingExportConfig
+                0x0000000000008b38      0x4d4 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x0000000000008b38                HiiConfigRoutingExportConfig
+ .text.FindStringBlock
+                0x000000000000900c      0x7c8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000000900c                FindStringBlock
+ .text.GetStringWorker
+                0x00000000000097d4      0x2d0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiCompareLanguage
+                0x0000000000009aa4      0x128 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x0000000000009aa4                HiiCompareLanguage
+ .text.IsHiiHandleValid
+                0x0000000000009bcc       0x24 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x0000000000009bcc                IsHiiHandleValid
+ .text.HiiNewString
+                0x0000000000009bf0      0x938 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiGetString
+                0x000000000000a528      0x25c /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiSetString
+                0x000000000000a784      0x8ac /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiGetLanguages
+                0x000000000000b030      0x204 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.HiiGetSecondaryLanguages
+                0x000000000000b234      0x208 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .text.IsEfiVarStoreQuestion
+                0x000000000000b43c       0x30 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.IsLineBreak
+                0x000000000000b46c       0xe8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.InternalAllocatePool
+                0x000000000000b554       0x5c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.DebugAssertEnabled
+                0x000000000000b5b0        0x8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000b5b0                DebugAssertEnabled
+ .text.InternalSafeStringIsOverlap
+                0x000000000000b5b8       0x3c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000b5b8                InternalSafeStringIsOverlap
+ .text.AsciiStrnLenS
+                0x000000000000b5f4       0x3c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000b5f4                AsciiStrnLenS
+ .text.DebugPrintLevelEnabled
+                0x000000000000b630        0x8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000b630                DebugPrintLevelEnabled
+ .text.BasePrintLibFillBuffer
+                0x000000000000b638       0x34 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000b638                BasePrintLibFillBuffer
+ .text.BaseDebugLibSerialPortConstructor
+                0x000000000000b66c       0x84 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000b66c                BaseDebugLibSerialPortConstructor
+ .text.DebugAssert
+                0x000000000000b6f0       0x78 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000b6f0                DebugAssert
+ .text.HiiGetPackageListHandle
+                0x000000000000b768      0x128 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000b768                HiiGetPackageListHandle
+ .text.NarrowGlyphToBlt
+                0x000000000000b890      0x118 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.GlyphToBlt
+                0x000000000000b9a8      0x214 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.GlyphToImage
+                0x000000000000bbbc      0x23c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.ExtractReadOnlyFromOpCode
+                0x000000000000bdf8       0x4c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.FindQuestionFromStringId
+                0x000000000000be44       0xc4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.FindStorageFromVarId
+                0x000000000000bf08       0xb8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.GetWidth
+                0x000000000000bfc0      0x19c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.CompareGuid
+                0x000000000000c15c       0x60 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000c15c                CompareGuid
+ .text.ZeroMem  0x000000000000c1bc       0x74 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000c1bc                ZeroMem
+ .text.CompareMem
+                0x000000000000c230       0xc8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000c230                CompareMem
+ .text.CopyMem  0x000000000000c2f8       0x9c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000c2f8                CopyMem
+ .text.HiiFindKeyboardLayouts
+                0x000000000000c394      0x238 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000c394                HiiFindKeyboardLayouts
+ .text.HiiGetKeyboardLayout
+                0x000000000000c5cc      0x254 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000c5cc                HiiGetKeyboardLayout
+ .text.GetCell  0x000000000000c820       0xc4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000c820                GetCell
+ .text.LShiftU64
+                0x000000000000c8e4       0x44 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000c8e4                LShiftU64
+ .text.BitFieldRead32
+                0x000000000000c928       0x74 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.BitFieldRead64
+                0x000000000000c99c       0xa0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000c99c                BitFieldRead64
+ .text.InternalBaseLibIsListValid
+                0x000000000000ca3c       0xb0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000ca3c                InternalBaseLibIsListValid
+ .text.GetFirstNode
+                0x000000000000caec       0x44 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000caec                GetFirstNode
+ .text.GetNextNode
+                0x000000000000cb30       0x44 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000cb30                GetNextNode
+ .text.IsListEmpty
+                0x000000000000cb74       0x4c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000cb74                IsListEmpty
+ .text.HiiListPackageLists
+                0x000000000000cbc0      0x248 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000cbc0                HiiListPackageLists
+ .text.IsNull   0x000000000000ce08       0x4c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000ce08                IsNull
+ .text.StrnLenS
+                0x000000000000ce54       0x70 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000ce54                StrnLenS
+ .text.StrLen   0x000000000000cec4       0xa4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000cec4                StrLen
+ .text.StrSize  0x000000000000cf68       0x1c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000cf68                StrSize
+ .text.IsFontInfoExisted
+                0x000000000000cf84      0x47c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000cf84                IsFontInfoExisted
+ .text.StrCmp   0x000000000000d400       0x88 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.StrnCmp  0x000000000000d488       0xd4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d488                StrnCmp
+ .text.StrStr   0x000000000000d55c       0xa8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d55c                StrStr
+ .text.AsciiStrLen
+                0x000000000000d604       0x90 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d604                AsciiStrLen
+ .text.AsciiStrSize
+                0x000000000000d694       0x18 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d694                AsciiStrSize
+ .text.AsciiStrCmp
+                0x000000000000d6ac       0x88 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.AsciiStrnCmp
+                0x000000000000d734       0xd4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d734                AsciiStrnCmp
+ .text.ReadUnaligned16
+                0x000000000000d808       0x5c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d808                ReadUnaligned16
+ .text.ReadUnaligned32
+                0x000000000000d864       0x30 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d864                ReadUnaligned32
+ .text.UnicodeSPrint
+                0x000000000000d894       0xd4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d894                UnicodeSPrint
+ .text.BasePrintLibValueToString
+                0x000000000000d968       0x2c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d968                BasePrintLibValueToString
+ .text.DebugPrint
+                0x000000000000d994       0xcc /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000d994                DebugPrint
+ .text.DevicePathType
+                0x000000000000da60       0x48 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.DevicePathSubType
+                0x000000000000daa8       0x48 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.DebugPrintEnabled
+                0x000000000000daf0        0x8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000daf0                DebugPrintEnabled
+ .text.GetPiPcdProtocol
+                0x000000000000daf8       0xc0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000daf8                GetPiPcdProtocol
+ .text.StrHexToUint64
+                0x000000000000dbb8      0x1a0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000dbb8                StrHexToUint64
+ .text.AllocatePool
+                0x000000000000dd58        0xc /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000dd58                AllocatePool
+ .text.ExtractNameSpace
+                0x000000000000dd64      0x104 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.GetUnicodeStringTextAndSize
+                0x000000000000de68       0xac /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.InternalAllocateZeroPool
+                0x000000000000df14       0x34 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000df14                InternalAllocateZeroPool
+ .text.AllocateZeroPool
+                0x000000000000df48        0xc /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000df48                AllocateZeroPool
+ .text.HiiRegisterPackageNotify
+                0x000000000000df54      0x180 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000df54                HiiRegisterPackageNotify
+ .text.NewCell  0x000000000000e0d4       0x88 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000e0d4                NewCell
+ .text.GetGlyphBuffer
+                0x000000000000e15c      0x370 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.GetSystemFont.part.0
+                0x000000000000e4cc       0xf8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000e4cc                GetSystemFont.part.0
+ .text.ConstructRequestElement
+                0x000000000000e5c4       0xc0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.AllocateCopyPool
+                0x000000000000e684       0x90 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000e684                AllocateCopyPool
+ .text.ExtractKeyword
+                0x000000000000e714       0xe4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.FreePool
+                0x000000000000e7f8       0x7c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000e7f8                FreePool
+ .text.InvokeRegisteredFunction
+                0x000000000000e874      0x3f0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000e874                InvokeRegisteredFunction
+ .text.ExportFormPackages
+                0x000000000000ec64      0x1ac /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000ec64                ExportFormPackages
+ .text.ExportPackageList
+                0x000000000000ee10      0xb4c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.HiiExportPackageLists
+                0x000000000000f95c      0x26c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000f95c                HiiExportPackageLists
+ .text.RemoveGuidPackages
+                0x000000000000fbc8      0x128 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.FindQuestionDefaultSetting
+                0x000000000000fcf0      0x458 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000000fcf0                FindQuestionDefaultSetting
+ .text.RemoveFormPackages
+                0x0000000000010148      0x104 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.RemoveStringPackages
+                0x000000000001024c      0x170 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.RemoveFontPackages
+                0x00000000000103bc      0x1fc /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.RemoveImagePackages
+                0x00000000000105b8       0x74 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.RemoveSimpleFontPackages
+                0x000000000001062c       0xfc /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.RemoveDevicePathPackage
+                0x0000000000010728       0x9c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.RemoveKeyboardLayoutPackages
+                0x00000000000107c4      0x128 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.HiiRemovePackageList
+                0x00000000000108ec      0x298 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x00000000000108ec                HiiRemovePackageList
+ .text.HiiUnregisterPackageNotify
+                0x0000000000010b84      0x1b8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x0000000000010b84                HiiUnregisterPackageNotify
+ .text.HiiSetKeyboardLayout
+                0x0000000000010d3c      0x218 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x0000000000010d3c                HiiSetKeyboardLayout
+ .text.IsSystemFontInfo
+                0x0000000000010f54      0x244 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.HiiGetFontInfo
+                0x0000000000011198      0x320 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x0000000000011198                HiiGetFontInfo
+ .text.HiiStringToImage
+                0x00000000000114b8      0xcb0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x00000000000114b8                HiiStringToImage
+ .text.HiiStringIdToImage
+                0x0000000000012168      0x3c4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x0000000000012168                HiiStringIdToImage
+ .text.HiiGetGlyph
+                0x000000000001252c      0x33c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000001252c                HiiGetGlyph
+ .text.GetStringIdFromRecord
+                0x0000000000012868      0x69c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.GetNameFromId
+                0x0000000000012f04      0x1a0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.ExtractValueFromDriver
+                0x00000000000130a4      0x128 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.ReallocatePool
+                0x00000000000131cc       0x60 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x00000000000131cc                ReallocatePool
+ .text.MergeToMultiKeywordResp
+                0x000000000001322c       0xac /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.DevicePathNodeLength
+                0x00000000000132d8       0x50 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x00000000000132d8                DevicePathNodeLength
+ .text.NextDevicePathNode
+                0x0000000000013328       0x50 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x0000000000013328                NextDevicePathNode
+ .text.IsDevicePathEnd
+                0x0000000000013378       0x94 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x0000000000013378                IsDevicePathEnd
+ .text.ExtractDevicePath
+                0x000000000001340c      0x1e4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.UefiDevicePathLibGetDevicePathSize
+                0x00000000000135f0       0xfc /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x00000000000135f0                UefiDevicePathLibGetDevicePathSize
+ .text.ConstructConfigHdr
+                0x00000000000136ec      0x2e4 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.ExtractConfigRequest
+                0x00000000000139d0      0x27c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.AddDevicePathPackage.part.0
+                0x0000000000013c4c      0x188 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.AddPackages
+                0x0000000000013dd4     0x1118 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.HiiNewPackageList
+                0x0000000000014eec      0x330 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x0000000000014eec                HiiNewPackageList
+ .text.HiiUpdatePackageList
+                0x000000000001521c      0x2c0 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000001521c                HiiUpdatePackageList
+ .text.GetStringIdFromDatabase
+                0x00000000000154dc      0x278 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.EfiConfigKeywordHandlerSetData
+                0x0000000000015754      0x758 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x0000000000015754                EfiConfigKeywordHandlerSetData
+ .text.GenerateKeywordResp
+                0x0000000000015eac      0x200 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .text.EfiConfigKeywordHandlerGetData
+                0x00000000000160ac      0xd6c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x00000000000160ac                EfiConfigKeywordHandlerGetData
+ .text.FbConFlush
+                0x0000000000016e18       0x58 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .text.WriteOutputParam.constprop.0
+                0x0000000000016e70       0x84 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .text.DevicePathFromHandle
+                0x0000000000016ef4       0x64 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000016ef4                DevicePathFromHandle
+ .text.FindGlyphBlock.constprop.0
+                0x0000000000016f58      0x560 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000016f58                FindGlyphBlock.constprop.0
+ .text.AsciiStrStr.constprop.0
+                0x00000000000174b8       0xa8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x00000000000174b8                AsciiStrStr.constprop.0
+ .text.OutputConfigBody.constprop.0
+                0x0000000000017560       0xc8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000017560                OutputConfigBody.constprop.0
+ .text.EfiReleaseLock.constprop.0
+                0x0000000000017628       0x6c /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000017628                EfiReleaseLock.constprop.0
+ .text.EfiAcquireLock.constprop.0
+                0x0000000000017694       0x70 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000017694                EfiAcquireLock.constprop.0
+ .text.BitFieldWrite32.constprop.0
+                0x0000000000017704      0x130 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000017704                BitFieldWrite32.constprop.0
+ .text.LibPcdGetExSize.constprop.0
+                0x0000000000017834       0x2c /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000017834                LibPcdGetExSize.constprop.0
+ .text.GetBestLanguage.constprop.0
+                0x0000000000017860      0x1b8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000017860                GetBestLanguage.constprop.0
+ .text.GetFormPackageData.constprop.0
+                0x0000000000017a18       0xfc /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000017a18                GetFormPackageData.constprop.0
+ .text.BasePrintLibSPrintMarker.constprop.0
+                0x0000000000017b14      0xef8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000017b14                BasePrintLibSPrintMarker.constprop.0
+ .text.AsciiSPrint.constprop.0
+                0x0000000000018a0c       0xac /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000018a0c                AsciiSPrint.constprop.0
+ .text.BasePrintLibSPrint.constprop.0
+                0x0000000000018ab8       0x98 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .text.GetEfiGlobalVariable2.constprop.0.isra.0
+                0x0000000000018b50      0x110 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000018b50                GetEfiGlobalVariable2.constprop.0.isra.0
+ .text.UnicodeValueToStringS.constprop.0.isra.0
+                0x0000000000018c60      0x1b0 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000018c60                UnicodeValueToStringS.constprop.0.isra.0
+ .text.SerialPortWrite.isra.0
+                0x0000000000018e10      0x3ec /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000018e10                SerialPortWrite.isra.0
+ .text.WriteUnaligned16.isra.0
+                0x00000000000191fc       0x4c /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x00000000000191fc                WriteUnaligned16.isra.0
+ .text.AsciiStrToUnicodeStrS.isra.0
+                0x0000000000019248      0x1cc /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000019248                AsciiStrToUnicodeStrS.isra.0
+ .text.UnicodeStrToAsciiStrS.isra.0
+                0x0000000000019414      0x214 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000019414                UnicodeStrToAsciiStrS.isra.0
+ .text.AsciiStrCpyS.isra.0
+                0x0000000000019628      0x1b4 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000019628                AsciiStrCpyS.isra.0
+ .text.StrnCatS.isra.0
+                0x00000000000197dc      0x2a8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x00000000000197dc                StrnCatS.isra.0
+ .text.StrCatS.isra.0
+                0x0000000000019a84      0x24c /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000019a84                StrCatS.isra.0
+ .text.StrnCpyS.isra.0
+                0x0000000000019cd0      0x254 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000019cd0                StrnCpyS.isra.0
+ .text.StrCpyS.isra.0
+                0x0000000000019f24      0x1f4 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x0000000000019f24                StrCpyS.isra.0
+ .text.SaveFontName.constprop.0
+                0x000000000001a118       0x60 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x000000000001a118                SaveFontName.constprop.0
+ .text.RemoveEntryList.isra.0
+                0x000000000001a178       0x50 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x000000000001a178                RemoveEntryList.isra.0
+ .text.InsertTailList.isra.0
+                0x000000000001a1c8       0x58 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x000000000001a1c8                InsertTailList.isra.0
+ .text.InitializeListHead.isra.0
+                0x000000000001a220       0x3c /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x000000000001a220                InitializeListHead.isra.0
+ .text.SetMem32.isra.0
+                0x000000000001a25c       0xa0 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x000000000001a25c                SetMem32.isra.0
+ .text.CopyGuid.isra.0
+                0x000000000001a2fc        0x8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x000000000001a2fc                CopyGuid.isra.0
+ .text.HiiGetDatabaseInfo.isra.0
+                0x000000000001a304      0x1d8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x000000000001a304                HiiGetDatabaseInfo.isra.0
+ .text.HiiGetConfigRespInfo.isra.0
+                0x000000000001a4dc      0x1ac /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x000000000001a4dc                HiiGetConfigRespInfo.isra.0
+ *fill*         0x000000000001a688        0x8 
+ .text          0x000000000001a690      0x200 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+                0x000000000001a690                InternalMemSetMem16
+                0x000000000001a69c                InternalMemSetMem32
+                0x000000000001a6a8                InternalMemSetMem64
+                0x000000000001a6b4                InternalMemZeroMem
+                0x000000000001a6bc                InternalMemSetMem
+ .text          0x000000000001a890      0x218 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+                0x000000000001a9fc                InternalMemCopyMem
+ *fill*         0x000000000001aaa8       0x18 
+ .text          0x000000000001aac0       0xe0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMem.obj)
+                0x000000000001aac0                InternalMemCompareMem
+ .text          0x000000000001aba0       0x20 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+                0x000000000001aba0                InternalMemCompareGuid
+ .text.ArmCacheInfo
+                0x000000000001abc0        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x000000000001abc0                ArmCacheInfo
+ .text.ArmGetInterruptState
+                0x000000000001abc8       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x000000000001abc8                ArmGetInterruptState
+ .text.ArmEnableInterrupts
+                0x000000000001abd8        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x000000000001abd8                ArmEnableInterrupts
+ .text.ArmDisableInterrupts
+                0x000000000001abe4        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x000000000001abe4                ArmDisableInterrupts
+ .text.ArmCleanInvalidateDataCacheEntryByMVA
+                0x000000000001abf0        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x000000000001abf0                ArmCleanInvalidateDataCacheEntryByMVA
+ .text.ArmDataSynchronizationBarrier
+                0x000000000001abf8        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x000000000001abf8                ArmDataSynchronizationBarrier
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.HiiToLower.str1.1
+                0x000000000001ac00       0x70 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.AsciiHiiToLower.str1.1
+                0x000000000001ac70       0x4c /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.LocateHiiImageDecoder.str1.1
+                0x000000000001acbc       0x5f /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.GetImageIdOrAddress.str1.1
+                0x000000000001ad1b       0xab /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ *fill*         0x000000000001adc6        0x2 
+ .rodata.GetImageIdOrAddress
+                0x000000000001adc8       0x23 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.CopyGopToRgbPixel.str1.1
+                0x000000000001adeb       0x36 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.GetUnicodeStringTextOrSize.str1.1
+                0x000000000001ae21       0x38 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.Output8bitPixel.str1.1
+                0x000000000001ae59       0x65 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.LocatePackageList.str1.1
+                0x000000000001aebe       0x15 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.IGetImage.str1.1
+                0x000000000001aed3       0x26 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ *fill*         0x000000000001aef9        0x3 
+ .rodata.HiiSetImage
+                0x000000000001aefc        0xa /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.HiiDrawImage.str1.1
+                0x000000000001af06       0x26 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                         0x19 (size before relaxing)
+ .rodata.GetElementsFromRequest.str2.2
+                0x000000000001af06       0x12 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                         0x22 (size before relaxing)
+ .rodata.GetElementsFromRequest.str1.1
+                0x000000000001af18       0x1b /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.CalculateConfigStringLen.str1.1
+                0x000000000001af33       0x33 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                         0x4a (size before relaxing)
+ .rodata.CalculateConfigStringLen.str2.2
+                0x000000000001af66        0xe /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                         0x1a (size before relaxing)
+ .rodata.AppendToMultiString.str1.1
+                0x000000000001af74       0x1d /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ *fill*         0x000000000001af91        0x1 
+ .rodata.HiiBlockToConfig.str2.2
+                0x000000000001af92       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                         0x2e (size before relaxing)
+ .rodata.HiiConfigToBlock.str2.2
+                0x000000000001afa2       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.MergeDefaultString.str2.2
+                0x000000000001afa2       0x3a /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                         0x3e (size before relaxing)
+ .rodata.MergeDefaultString.str1.1
+                0x000000000001afdc       0x92 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.InsertDefaultValue.str1.1
+                0x000000000001b06e       0x22 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.ReferFontInfoLocally.str1.1
+                0x000000000001b090       0x96 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x000000000001b126      0x494 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.__stack_chk_fail.str1.1
+                0x000000000001b5ba       0x2e /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.GenerateSubStr.str1.1
+                0x000000000001b5e8       0x4a /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                         0x5e (size before relaxing)
+ .rodata.GetVarStoreType.str2.2
+                0x000000000001b632       0x3a /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                          0xc (size before relaxing)
+ .rodata.IsThisVarstore.str2.2
+                0x000000000001b632        0xe /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.HiiConfigRoutingRouteConfig.str1.1
+                0x000000000001b640       0x55 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.HiiGetAltCfg.str2.2
+                0x000000000001b695        0xe /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                         0x10 (size before relaxing)
+ .rodata.GetSupportedLanguages.str1.1
+                0x000000000001b695       0x1a /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.InternalGetString.str1.1
+                0x000000000001b6af        0xe /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                          0xf (size before relaxing)
+ .rodata.BlockArrayCheck.str1.1
+                0x000000000001b6bd       0x15 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.GetFullStringFromHiiFormPackages.part.0.str1.1
+                0x000000000001b6d2       0x34 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.GetFullStringFromHiiFormPackages.part.0.str2.2
+                0x000000000001b706       0xa0 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ *fill*         0x000000000001b7a6        0x2 
+ .rodata.GetFullStringFromHiiFormPackages.part.0
+                0x000000000001b7a8       0x5e /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.HiiConfigRoutingExtractConfig.str1.1
+                0x000000000001b806       0x15 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.FindStringBlock.str1.1
+                0x000000000001b81b      0x136 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                        0x154 (size before relaxing)
+ *fill*         0x000000000001b951        0x3 
+ .rodata.FindStringBlock
+                0x000000000001b954       0x46 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.GetStringWorker.str1.1
+                0x000000000001b99a       0x40 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.HiiCompareLanguage.str1.1
+                0x000000000001b9da       0x2a /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .rodata.HiiSetString.str1.1
+                0x000000000001ba04       0x2a /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                         0x4c (size before relaxing)
+ .rodata.CSWTCH.466.lto_priv.0
+                0x000000000001ba04        0x3 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001ba04                CSWTCH.466.lto_priv.0
+                0x000000000001ba04                CSWTCH.243.lto_priv.0
+ .rodata.DebugAssert.str1.1
+                0x000000000001ba07       0x24 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.HiiGetPackageListHandle.str1.1
+                0x000000000001ba2b       0x4e /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x63 (size before relaxing)
+ .rodata.NarrowGlyphToBlt.str1.1
+                0x000000000001ba79       0x9b /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.GlyphToBlt.str1.1
+                0x000000000001bb14       0x4a /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ExtractReadOnlyFromOpCode.str1.1
+                0x000000000001bb5e       0x75 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.FindQuestionFromStringId.str1.1
+                0x000000000001bbd3       0x1c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.GetWidth.str1.1
+                0x000000000001bbef       0x36 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x48 (size before relaxing)
+ *fill*         0x000000000001bc25        0x3 
+ .rodata.GetWidth
+                0x000000000001bc28       0x1c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.CompareGuid.str1.1
+                0x000000000001bc44       0x7d /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ZeroMem.str1.1
+                0x000000000001bcc1       0x87 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x9e (size before relaxing)
+ .rodata.CompareMem.str1.1
+                0x000000000001bd48      0x114 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.CopyMem.str1.1
+                0x000000000001be5c       0x51 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.LShiftU64.str1.1
+                0x000000000001bead       0x4b /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.BitFieldRead32.str1.1
+                0x000000000001bef8       0x5e /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.BitFieldRead64.str1.1
+                0x000000000001bf56       0x4c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.InternalBaseLibIsListValid.str1.1
+                0x000000000001bfa2       0x82 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x97 (size before relaxing)
+ .rodata.GetFirstNode.str1.1
+                0x000000000001c024       0x22 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.IsListEmpty.str1.1
+                0x000000000001c046       0x26 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.HiiListPackageLists
+                0x000000000001c06c        0xa /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.StrnLenS.str1.1
+                0x000000000001c076       0x63 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.StrLen.str1.1
+                0x000000000001c0d9       0x77 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x8e (size before relaxing)
+ .rodata.IsFontInfoExisted.str1.1
+                0x000000000001c150       0x80 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.StrCmp.str1.1
+                0x000000000001c150       0x37 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.StrnCmp.str1.1
+                0x000000000001c187       0x3b /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.StrStr.str1.1
+                0x000000000001c1c2       0x3b /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x32 (size before relaxing)
+ .rodata.AsciiStrLen.str1.1
+                0x000000000001c1c2       0x38 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.AsciiStrCmp.str1.1
+                0x000000000001c1fa       0x37 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.AsciiStrnCmp.str1.1
+                0x000000000001c231       0x39 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ReadUnaligned16.str1.1
+                0x000000000001c26a       0x44 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.UnicodeSPrint.str1.1
+                0x000000000001c2ae       0x6c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.DevicePathType.str1.1
+                0x000000000001c31a       0x69 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.GetPiPcdProtocol.str1.1
+                0x000000000001c383       0x59 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0xa1 (size before relaxing)
+ .rodata.StrHexToUint64.str1.1
+                0x000000000001c3dc       0xc2 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ExtractNameSpace.str2.2
+                0x000000000001c49e       0x16 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x1a (size before relaxing)
+ .rodata.GetUnicodeStringTextAndSize.str1.1
+                0x000000000001c4b4       0x56 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.GetSystemFont.part.0.str2.2
+                0x000000000001c50a       0x16 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.GetSystemFont.part.0.str1.1
+                0x000000000001c520       0x1e /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ConstructRequestElement.str1.1
+                0x000000000001c53e       0x1a /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ConstructRequestElement.str2.2
+                0x000000000001c53e       0x16 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x34 (size before relaxing)
+ .rodata.AllocateCopyPool.str1.1
+                0x000000000001c53e       0x98 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ExtractKeyword.str2.2
+                0x000000000001c5d6       0x12 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.InvokeRegisteredFunction
+                0x000000000001c5e8       0x12 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ExportPackageList.str1.1
+                0x000000000001c5fa       0xeb /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                        0x137 (size before relaxing)
+ .rodata.FindQuestionDefaultSetting.str1.1
+                0x000000000001c6e5       0x3b /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.HiiRemovePackageList.str1.1
+                0x000000000001c720       0x39 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.HiiSetKeyboardLayout.str1.1
+                0x000000000001c759       0x1f /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.IsSystemFontInfo.str1.1
+                0x000000000001c778       0x35 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.HiiGetFontInfo.str1.1
+                0x000000000001c7ad       0x1d /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.HiiStringToImage.str1.1
+                0x000000000001c7ca       0x6d /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x82 (size before relaxing)
+ .rodata.HiiStringIdToImage.str1.1
+                0x000000000001c837        0x1 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.HiiGetGlyph.str1.1
+                0x000000000001c837       0x1e /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.GetStringIdFromRecord.str1.1
+                0x000000000001c855       0xbd /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                        0x10f (size before relaxing)
+ *fill*         0x000000000001c912        0x2 
+ .rodata.GetStringIdFromRecord
+                0x000000000001c914       0x46 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.GetNameFromId.str1.1
+                0x000000000001c95a       0x23 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ExtractValueFromDriver.str1.1
+                0x000000000001c97d       0x42 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ExtractValueFromDriver.str2.2
+                0x000000000001c9bf       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ExtractDevicePath.str2.2
+                0x000000000001c9bf        0xc /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ConstructConfigHdr.str1.1
+                0x000000000001c9bf       0x15 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ConstructConfigHdr.str2.2
+                0x000000000001c9bf       0x28 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.ExtractConfigRequest.str1.1
+                0x000000000001c9bf       0xa3 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0xbb (size before relaxing)
+ .rodata.AddDevicePathPackage.part.0.str1.1
+                0x000000000001ca62       0x37 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ *fill*         0x000000000001ca99        0x3 
+ .rodata.AddPackages
+                0x000000000001ca9c       0x3f /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ *fill*         0x000000000001cadb        0x1 
+ .rodata.HiiUpdatePackageList
+                0x000000000001cadc        0x9 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.GetStringIdFromDatabase.str1.1
+                0x000000000001cae5       0xc2 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.EfiConfigKeywordHandlerSetData.str1.1
+                0x000000000001cba7      0x10c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ *fill*         0x000000000001ccb3        0x1 
+ .rodata.EfiConfigKeywordHandlerSetData.str2.2
+                0x000000000001ccb4       0x14 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                         0x22 (size before relaxing)
+ .rodata.GenerateKeywordResp.str1.1
+                0x000000000001ccc8       0x9c /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.EfiConfigKeywordHandlerGetData.str2.2
+                0x000000000001cd64       0x62 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.EfiConfigKeywordHandlerGetData.str1.1
+                0x000000000001cdc6       0x1b /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ *fill*         0x000000000001cde1        0x3 
+ .rodata.EfiConfigKeywordHandlerGetData
+                0x000000000001cde4       0x4e /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.__FUNCTION__.20
+                0x000000000001ce32       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdUefiVariableDefaultPlatformLang
+                0x000000000001ce42        0x6 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.mHexStr
+                0x000000000001ce48       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.mHiiEfiColors
+                0x000000000001ce58       0x40 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .rodata.FindGlyphBlock.constprop.0.str1.1
+                0x000000000001ce98       0x6c /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                         0xc8 (size before relaxing)
+ .rodata.FindGlyphBlock.constprop.0
+                0x000000000001cf04       0x2e /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.AsciiStrStr.constprop.0.str1.1
+                0x000000000001cf32       0x3e /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                         0x7b (size before relaxing)
+ .rodata.OutputConfigBody.constprop.0.str2.2
+                0x000000000001cf70       0x1e /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.EfiReleaseLock.constprop.0.str1.1
+                0x000000000001cf70       0x5c /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.EfiAcquireLock.constprop.0.str1.1
+                0x000000000001cfcc       0x1e /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.BitFieldWrite32.constprop.0.str1.1
+                0x000000000001cfea       0x49 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                         0xa7 (size before relaxing)
+ .rodata.GetBestLanguage.constprop.0.str1.1
+                0x000000000001d033       0x23 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.0.str1.1
+                0x000000000001d056      0x28c /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                        0x2a3 (size before relaxing)
+ *fill*         0x000000000001d2e2        0x2 
+ .rodata.BasePrintLibSPrintMarker.constprop.0
+                0x000000000001d2e4       0x5e /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.AsciiSPrint.constprop.0.str1.1
+                0x000000000001d342       0x18 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.GetEfiGlobalVariable2.constprop.0.isra.0.str2.2
+                0x000000000001d342       0x1a /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.GetEfiGlobalVariable2.constprop.0.isra.0.str1.1
+                0x000000000001d35c       0x17 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.UnicodeValueToStringS.constprop.0.isra.0.str1.1
+                0x000000000001d373       0xa2 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                         0xe6 (size before relaxing)
+ .rodata.WriteUnaligned16.isra.0.str1.1
+                0x000000000001d415       0x44 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.AsciiStrToUnicodeStrS.isra.0.str1.1
+                0x000000000001d415      0x128 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                        0x1a9 (size before relaxing)
+ .rodata.UnicodeStrToAsciiStrS.isra.0.str1.1
+                0x000000000001d53d       0xd7 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.AsciiStrCpyS.isra.0.str1.1
+                0x000000000001d614       0x5b /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.StrnCatS.isra.0.str1.1
+                0x000000000001d66f       0xbb /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.RemoveEntryList.isra.0.str1.1
+                0x000000000001d72a       0x15 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                         0x56 (size before relaxing)
+ .rodata.InsertTailList.isra.0.str1.1
+                0x000000000001d73f       0x26 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.InitializeListHead.isra.0.str1.1
+                0x000000000001d73f       0x19 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.SetMem32.isra.0.str1.1
+                0x000000000001d758       0xb8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.HiiGetDatabaseInfo.isra.0.str1.1
+                0x000000000001d810       0xfa /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                        0x190 (size before relaxing)
+ .rodata.HiiGetConfigRespInfo.isra.0.str1.1
+                0x000000000001d90a       0x4a /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                         0x5f (size before relaxing)
+ .rodata.__FUNCTION__.15
+                0x000000000001d954        0xd /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.__FUNCTION__.24
+                0x000000000001d961        0x9 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.__FUNCTION__.25
+                0x000000000001d96a        0x8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.__FUNCTION__.26
+                0x000000000001d972        0x9 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.__FUNCTION__.27
+                0x000000000001d97b        0x8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.__FUNCTION__.5
+                0x000000000001d983       0x16 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.__FUNCTION__.7
+                0x000000000001d999       0x16 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.mErrorString
+                0x000000000001d9af      0x2b5 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .rodata.mWarningString
+                0x000000000001dc64       0x96 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ *(.got .got.*)
+ *fill*         0x000000000001dcfa        0x6 
+ .got           0x000000000001dd00        0x8 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+                0x000000000001dd00                _GLOBAL_OFFSET_TABLE_
+ .got.plt       0x000000000001dd08       0x18 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x000000000001dd20        0x0
+ .plt           0x000000000001dd20        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.data           0x000000000001e000      0x700
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.ro   0x000000000001e000        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data.gEdkiiIfrBitVarstoreGuid
+                0x000000000001e000       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e000                gEdkiiIfrBitVarstoreGuid
+ .data.gEfiConfigKeywordHandlerProtocolGuid
+                0x000000000001e010       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiDevicePathProtocolGuid
+                0x000000000001e020       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e020                gEfiDevicePathProtocolGuid
+ .data.gEfiEventReadyToBootGuid
+                0x000000000001e030       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHiiConfigAccessProtocolGuid
+                0x000000000001e040       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x000000000001e050       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e050                gEfiHiiConfigRoutingProtocolGuid
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x000000000001e060       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e060                gEfiHiiDatabaseProtocolGuid
+ .data.gEfiHiiFontProtocolGuid
+                0x000000000001e070       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHiiImageDecoderNameJpegGuid
+                0x000000000001e080       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHiiImageDecoderNamePngGuid
+                0x000000000001e090       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHiiImageDecoderProtocolGuid
+                0x000000000001e0a0       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHiiImageExProtocolGuid
+                0x000000000001e0b0       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x000000000001e0c0       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHiiKeyBoardLayoutGuid
+                0x000000000001e0d0       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x000000000001e0e0       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiHobListGuid
+                0x000000000001e0f0       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.gEfiMdeModulePkgTokenSpaceGuid
+                0x000000000001e100       0x10 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e100                gEfiMdeModulePkgTokenSpaceGuid
+ .data.mHiiDatabaseLock
+                0x000000000001e110       0x18 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e110                mHiiDatabaseLock
+ .data.mLanguageWindow
+                0x000000000001e128       0x20 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .data.mPrivate
+                0x000000000001e148      0x1a8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e148                mPrivate
+ .data.gEfiCallerIdGuid
+                0x000000000001e2f0       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .data.gEfiGetPcdInfoProtocolGuid
+                0x000000000001e300       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .data.gEfiPcdProtocolGuid
+                0x000000000001e310       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .data.gSkuId   0x000000000001e320        0x8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .data.gVarStorageList
+                0x000000000001e328       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .data.__stack_chk_guard
+                0x000000000001e338        0x8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                0x000000000001e338                __stack_chk_guard
+ .data.font5x12
+                0x000000000001e340      0x300 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .data.gEfiGlobalVariableGuid
+                0x000000000001e640       0x10 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ *(.bss .bss.*)
+ .bss.gBS       0x000000000001e650        0x8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e650                gBS
+ .bss.gExportAfterReadyToBoot
+                0x000000000001e658        0x1 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e658                gExportAfterReadyToBoot
+ *fill*         0x000000000001e659        0x7 
+ .bss.gHiiKeyboardLayoutChanged
+                0x000000000001e660        0x8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e660                gHiiKeyboardLayoutChanged
+ .bss.gImageHandle
+                0x000000000001e668        0x8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .bss.gRT       0x000000000001e670        0x8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                0x000000000001e670                gRT
+ .bss.gST       0x000000000001e678        0x8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .bss.mHobList  0x000000000001e680        0x8 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .bss.gExportConfigResp
+                0x000000000001e688        0x1 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ *fill*         0x000000000001e689        0x7 
+ .bss.gNvDefaultStoreSize
+                0x000000000001e690        0x8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .bss.mPiPcd    0x000000000001e698        0x8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .bss.mPiPcdInfo
+                0x000000000001e6a0        0x8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .bss.m_Color   0x000000000001e6a8       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000001e6a8                m_Color
+ .bss.m_Initialized
+                0x000000000001e6b8        0x1 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000001e6b8                m_Initialized
+ *fill*         0x000000000001e6b9        0x7 
+ .bss.m_MaxPosition
+                0x000000000001e6c0       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000001e6c0                m_MaxPosition
+ .bss.m_Position
+                0x000000000001e6d0       0x10 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                0x000000000001e6d0                m_Position
+ .bss.gConfigRespSize
+                0x000000000001e6e0        0x8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .bss.gDatabaseInfoSize
+                0x000000000001e6e8        0x8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .bss.gRTConfigRespBuffer
+                0x000000000001e6f0        0x8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .bss.gRTDatabaseInfoBuffer
+                0x000000000001e6f8        0x8 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+
+.dynbss         0x000000000001e700        0x0
+ .dynbss        0x000000000001e700        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x000000000001e700      0x3d8
+ *(.rela .rela.*)
+ .rela.got      0x000000000001e700        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.plt      0x000000000001e700        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.bss      0x000000000001e700        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.rel.ro
+                0x000000000001e700        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.ifunc    0x000000000001e700        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mPrivate
+                0x000000000001e700      0x3a8 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.gVarStorageList
+                0x000000000001eaa8       0x30 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000001ead8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000001ead8       0x24 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+OUTPUT(/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll elf64-littleaarch64)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x4f111
+ .debug_info    0x0000000000000000     0xcb67 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .debug_info    0x000000000000cb67     0xe868 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .debug_info    0x000000000001b3cf     0x3331 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .debug_info    0x000000000001e700       0xf2 /tmp/cc2TgWMh.debug.temp.o
+                0x000000000001e700                memcpy.c.ca7d7127
+ .debug_info    0x000000000001e7f2       0xaf /tmp/ccHsxt3V.debug.temp.o
+                0x000000000001e7f2                memset.c.8fcd00d9
+ .debug_info    0x000000000001e8a1     0x1944 /tmp/ccn9oFFC.debug.temp.o
+                0x000000000001e8a1                DriverEntryPoint.c.a6382bfa
+ .debug_info    0x00000000000201e5      0x12a /tmp/cc7qUeLm.debug.temp.o
+                0x00000000000201e5                BaseStackCheckGcc.c.69721062
+ .debug_info    0x000000000002030f     0x1eab /tmp/ccQ8R2Rk.debug.temp.o
+                0x000000000002030f                AutoGen.c.041aff6f
+ .debug_info    0x00000000000221ba     0x3253 /tmp/ccdrurys.debug.temp.o
+                0x00000000000221ba                HiiDatabaseEntry.c.7ad21d34
+ .debug_info    0x000000000002540d     0x26fe /tmp/cctF1saa.debug.temp.o
+                0x000000000002540d                Image.c.4eec96dc
+ .debug_info    0x0000000000027b0b     0x2a0c /tmp/cc9bWshu.debug.temp.o
+                0x0000000000027b0b                ImageEx.c.3ed38a5a
+ .debug_info    0x000000000002a517     0x5375 /tmp/ccCcKoMd.debug.temp.o
+                0x000000000002a517                ConfigRouting.c.244b8e79
+ .debug_info    0x000000000002f88c     0x265c /tmp/ccIg6RdS.debug.temp.o
+                0x000000000002f88c                String.c.5b7cafa7
+ .debug_info    0x0000000000031ee8     0x4e8a /tmp/cczpsSqS.debug.temp.o
+                0x0000000000031ee8                Database.c.0468327b
+ .debug_info    0x0000000000036d72     0x28d8 /tmp/ccMIQUIA.debug.temp.o
+                0x0000000000036d72                Font.c.9e2c679b
+ .debug_info    0x000000000003964a     0x3237 /tmp/ccOCEjPZ.debug.temp.o
+                0x000000000003964a                ConfigKeywordHandler.c.43512b91
+ .debug_info    0x000000000003c881     0x20d1 /tmp/ccZWJyLc.debug.temp.o
+                0x000000000003c881                DxePcdLib.c.8f1ccdd8
+ .debug_info    0x000000000003e952      0x22d /tmp/ccbxp0lG.debug.temp.o
+                0x000000000003e952                MemLibGuid.c.2a8f9d16
+ .debug_info    0x000000000003eb7f      0x104 /tmp/cc6TWOOo.debug.temp.o
+                0x000000000003eb7f                ZeroMemWrapper.c.f8654615
+ .debug_info    0x000000000003ec83      0x12d /tmp/cc2F7358.debug.temp.o
+                0x000000000003ec83                CompareMemWrapper.c.81649f89
+ .debug_info    0x000000000003edb0      0x11f /tmp/cclzbdDk.debug.temp.o
+                0x000000000003edb0                SetMem32Wrapper.c.1b40b8eb
+ .debug_info    0x000000000003eecf      0x119 /tmp/ccdaJtiK.debug.temp.o
+                0x000000000003eecf                CopyMemWrapper.c.2d7cc1a5
+ .debug_info    0x000000000003efe8      0x100 /tmp/ccxw8pyr.debug.temp.o
+                0x000000000003efe8                LShiftU64.c.691b16dd
+ .debug_info    0x000000000003f0e8      0x74d /tmp/ccQHqCJB.debug.temp.o
+                0x000000000003f0e8                BitField.c.7bb442a1
+ .debug_info    0x000000000003f835      0x327 /tmp/ccLdDwKL.debug.temp.o
+                0x000000000003f835                LinkedList.c.bde4625a
+ .debug_info    0x000000000003fb5c     0x10b0 /tmp/ccsaA6Y1.debug.temp.o
+                0x000000000003fb5c                SafeString.c.1357afb5
+ .debug_info    0x0000000000040c0c      0x7a9 /tmp/ccuTSIuf.debug.temp.o
+                0x0000000000040c0c                String.c.d9166835
+ .debug_info    0x00000000000413b5      0x288 /tmp/ccdfbTl1.debug.temp.o
+                0x00000000000413b5                Unaligned.c.bee98f61
+ .debug_info    0x000000000004163d      0x2d6 /tmp/ccXR7dpe.debug.temp.o
+                0x000000000004163d                Math64.c.3d5bb2b9
+ .debug_info    0x0000000000041913      0x100 /tmp/cc2d4kcQ.debug.temp.o
+                0x0000000000041913                RShiftU64.c.9dcedc34
+ .debug_info    0x0000000000041a13      0x5bf /tmp/cciijJee.debug.temp.o
+                0x0000000000041a13                PrintLib.c.03e7575f
+ .debug_info    0x0000000000041fd2      0x79c /tmp/cc5205iU.debug.temp.o
+                0x0000000000041fd2                PrintLibInternal.c.4386dd4c
+ .debug_info    0x000000000004276e      0x3d4 /tmp/ccy6SngB.debug.temp.o
+                0x000000000004276e                DebugLib.c.140d8a42
+ .debug_info    0x0000000000042b42     0x1359 /tmp/ccaCOGcV.debug.temp.o
+                0x0000000000042b42                MemoryAllocationLib.c.f1d55880
+ .debug_info    0x0000000000043e9b     0x1739 /tmp/cc8zSr4K.debug.temp.o
+                0x0000000000043e9b                UefiRuntimeServicesTableLib.c.21840ab8
+ .debug_info    0x00000000000455d4     0x1762 /tmp/ccx4cNdA.debug.temp.o
+                0x00000000000455d4                UefiBootServicesTableLib.c.c8c50134
+ .debug_info    0x0000000000046d36      0x6ac /tmp/ccjD7Hja.debug.temp.o
+                0x0000000000046d36                DevicePathUtilities.c.aab6466d
+ .debug_info    0x00000000000473e2      0xe34 /tmp/ccT5upfo.debug.temp.o
+                0x00000000000473e2                DevicePathUtilitiesDxeSmm.c.ae6b2134
+ .debug_info    0x0000000000048216      0x3f7 /tmp/cc6Sxguv.debug.temp.o
+                0x0000000000048216                UefiDevicePathLib.c.fb0beaa1
+ .debug_info    0x000000000004860d     0x19bd /tmp/ccg9HgHi.debug.temp.o
+                0x000000000004860d                UefiNotTiano.c.d57e0d57
+ .debug_info    0x0000000000049fca     0x25cc /tmp/ccMzxfzf.debug.temp.o
+                0x0000000000049fca                UefiLib.c.a38e5737
+ .debug_info    0x000000000004c596     0x20ef /tmp/ccEGO2O4.debug.temp.o
+                0x000000000004c596                HobLib.c.aa4e26ff
+ .debug_info    0x000000000004e685      0x121 /tmp/cc4pMv4N.debug.temp.o
+                0x000000000004e685                DivU64x32Remainder.c.51b74649
+ .debug_info    0x000000000004e7a6      0x5bf /tmp/ccDTTCSF.debug.temp.o
+                0x000000000004e7a6                FrameBufferSerialPortLib.c.02945832
+ .debug_info    0x000000000004ed65      0x25b /tmp/ccuWlLz6.debug.temp.o
+                0x000000000004ed65                ArmCacheMaintenanceLib.c.e0d69149
+ .debug_info    0x000000000004efc0      0x151 /tmp/ccsdQBTH.debug.temp.o
+                0x000000000004efc0                ArmLib.c.e988afac
+
+.debug_abbrev   0x0000000000000000     0x51a4
+ .debug_abbrev  0x0000000000000000      0x209 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000209      0x26a /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .debug_abbrev  0x0000000000000473      0x22a /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .debug_abbrev  0x000000000000069d       0xaa /tmp/cc2TgWMh.debug.temp.o
+ .debug_abbrev  0x0000000000000747       0x77 /tmp/ccHsxt3V.debug.temp.o
+ .debug_abbrev  0x00000000000007be      0x254 /tmp/ccn9oFFC.debug.temp.o
+ .debug_abbrev  0x0000000000000a12       0xf3 /tmp/cc7qUeLm.debug.temp.o
+ .debug_abbrev  0x0000000000000b05      0x2ce /tmp/ccQ8R2Rk.debug.temp.o
+ .debug_abbrev  0x0000000000000dd3      0x2b9 /tmp/ccdrurys.debug.temp.o
+ .debug_abbrev  0x000000000000108c      0x2bb /tmp/cctF1saa.debug.temp.o
+ .debug_abbrev  0x0000000000001347      0x2c4 /tmp/cc9bWshu.debug.temp.o
+ .debug_abbrev  0x000000000000160b      0x39e /tmp/ccCcKoMd.debug.temp.o
+ .debug_abbrev  0x00000000000019a9      0x2b9 /tmp/ccIg6RdS.debug.temp.o
+ .debug_abbrev  0x0000000000001c62      0x368 /tmp/cczpsSqS.debug.temp.o
+ .debug_abbrev  0x0000000000001fca      0x2e7 /tmp/ccMIQUIA.debug.temp.o
+ .debug_abbrev  0x00000000000022b1      0x2eb /tmp/ccOCEjPZ.debug.temp.o
+ .debug_abbrev  0x000000000000259c      0x2bf /tmp/ccZWJyLc.debug.temp.o
+ .debug_abbrev  0x000000000000285b      0x105 /tmp/ccbxp0lG.debug.temp.o
+ .debug_abbrev  0x0000000000002960       0xb8 /tmp/cc6TWOOo.debug.temp.o
+ .debug_abbrev  0x0000000000002a18       0xb7 /tmp/cc2F7358.debug.temp.o
+ .debug_abbrev  0x0000000000002acf       0xb8 /tmp/cclzbdDk.debug.temp.o
+ .debug_abbrev  0x0000000000002b87       0xbe /tmp/ccdaJtiK.debug.temp.o
+ .debug_abbrev  0x0000000000002c45       0xb2 /tmp/ccxw8pyr.debug.temp.o
+ .debug_abbrev  0x0000000000002cf7      0x103 /tmp/ccQHqCJB.debug.temp.o
+ .debug_abbrev  0x0000000000002dfa      0x141 /tmp/ccLdDwKL.debug.temp.o
+ .debug_abbrev  0x0000000000002f3b      0x1c7 /tmp/ccsaA6Y1.debug.temp.o
+ .debug_abbrev  0x0000000000003102      0x157 /tmp/ccuTSIuf.debug.temp.o
+ .debug_abbrev  0x0000000000003259       0xcf /tmp/ccdfbTl1.debug.temp.o
+ .debug_abbrev  0x0000000000003328       0xd0 /tmp/ccXR7dpe.debug.temp.o
+ .debug_abbrev  0x00000000000033f8       0xb2 /tmp/cc2d4kcQ.debug.temp.o
+ .debug_abbrev  0x00000000000034aa      0x172 /tmp/cciijJee.debug.temp.o
+ .debug_abbrev  0x000000000000361c      0x1ce /tmp/cc5205iU.debug.temp.o
+ .debug_abbrev  0x00000000000037ea      0x19c /tmp/ccy6SngB.debug.temp.o
+ .debug_abbrev  0x0000000000003986      0x26b /tmp/ccaCOGcV.debug.temp.o
+ .debug_abbrev  0x0000000000003bf1      0x1d1 /tmp/cc8zSr4K.debug.temp.o
+ .debug_abbrev  0x0000000000003dc2      0x201 /tmp/ccx4cNdA.debug.temp.o
+ .debug_abbrev  0x0000000000003fc3      0x1e6 /tmp/ccjD7Hja.debug.temp.o
+ .debug_abbrev  0x00000000000041a9      0x196 /tmp/ccT5upfo.debug.temp.o
+ .debug_abbrev  0x000000000000433f      0x114 /tmp/cc6Sxguv.debug.temp.o
+ .debug_abbrev  0x0000000000004453      0x2b5 /tmp/ccg9HgHi.debug.temp.o
+ .debug_abbrev  0x0000000000004708      0x2f1 /tmp/ccMzxfzf.debug.temp.o
+ .debug_abbrev  0x00000000000049f9      0x2cd /tmp/ccEGO2O4.debug.temp.o
+ .debug_abbrev  0x0000000000004cc6       0xb2 /tmp/cc4pMv4N.debug.temp.o
+ .debug_abbrev  0x0000000000004d78      0x245 /tmp/ccDTTCSF.debug.temp.o
+ .debug_abbrev  0x0000000000004fbd       0xf8 /tmp/ccuWlLz6.debug.temp.o
+ .debug_abbrev  0x00000000000050b5       0xef /tmp/ccsdQBTH.debug.temp.o
+
+.debug_loclists
+                0x0000000000000000    0x1ba88
+ .debug_loclists
+                0x0000000000000000     0xaf5a /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .debug_loclists
+                0x000000000000af5a     0xcffc /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .debug_loclists
+                0x0000000000017f56     0x3b32 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xd40
+ .debug_aranges
+                0x0000000000000000      0x400 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000400      0x700 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000b00      0x240 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+
+.debug_rnglists
+                0x0000000000000000     0x1531
+ .debug_rnglists
+                0x0000000000000000      0x70a /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .debug_rnglists
+                0x000000000000070a      0xb06 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .debug_rnglists
+                0x0000000000001210      0x321 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+
+.debug_line     0x0000000000000000    0x12d1f
+ .debug_line    0x0000000000000000     0x7736 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .debug_line    0x0000000000007736     0x89b2 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .debug_line    0x00000000000100e8     0x17e5 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+ .debug_line    0x00000000000118cd       0x3a /tmp/cc2TgWMh.debug.temp.o
+ .debug_line    0x0000000000011907       0x3a /tmp/ccHsxt3V.debug.temp.o
+ .debug_line    0x0000000000011941       0x93 /tmp/ccn9oFFC.debug.temp.o
+ .debug_line    0x00000000000119d4       0x5a /tmp/cc7qUeLm.debug.temp.o
+ .debug_line    0x0000000000011a2e       0x93 /tmp/ccQ8R2Rk.debug.temp.o
+ .debug_line    0x0000000000011ac1       0xc5 /tmp/ccdrurys.debug.temp.o
+ .debug_line    0x0000000000011b86       0xb2 /tmp/cctF1saa.debug.temp.o
+ .debug_line    0x0000000000011c38       0xc5 /tmp/cc9bWshu.debug.temp.o
+ .debug_line    0x0000000000011cfd       0xe3 /tmp/ccCcKoMd.debug.temp.o
+ .debug_line    0x0000000000011de0       0xad /tmp/ccIg6RdS.debug.temp.o
+ .debug_line    0x0000000000011e8d       0xdd /tmp/cczpsSqS.debug.temp.o
+ .debug_line    0x0000000000011f6a       0xb6 /tmp/ccMIQUIA.debug.temp.o
+ .debug_line    0x0000000000012020       0xb7 /tmp/ccOCEjPZ.debug.temp.o
+ .debug_line    0x00000000000120d7       0xa6 /tmp/ccZWJyLc.debug.temp.o
+ .debug_line    0x000000000001217d       0x5e /tmp/ccbxp0lG.debug.temp.o
+ .debug_line    0x00000000000121db       0x51 /tmp/cc6TWOOo.debug.temp.o
+ .debug_line    0x000000000001222c       0x51 /tmp/cc2F7358.debug.temp.o
+ .debug_line    0x000000000001227d       0x51 /tmp/cclzbdDk.debug.temp.o
+ .debug_line    0x00000000000122ce       0x51 /tmp/ccdaJtiK.debug.temp.o
+ .debug_line    0x000000000001231f       0x51 /tmp/ccxw8pyr.debug.temp.o
+ .debug_line    0x0000000000012370       0x51 /tmp/ccQHqCJB.debug.temp.o
+ .debug_line    0x00000000000123c1       0x5e /tmp/ccLdDwKL.debug.temp.o
+ .debug_line    0x000000000001241f       0x6d /tmp/ccsaA6Y1.debug.temp.o
+ .debug_line    0x000000000001248c       0x63 /tmp/ccuTSIuf.debug.temp.o
+ .debug_line    0x00000000000124ef       0x51 /tmp/ccdfbTl1.debug.temp.o
+ .debug_line    0x0000000000012540       0x4c /tmp/ccXR7dpe.debug.temp.o
+ .debug_line    0x000000000001258c       0x51 /tmp/cc2d4kcQ.debug.temp.o
+ .debug_line    0x00000000000125dd       0x5f /tmp/cciijJee.debug.temp.o
+ .debug_line    0x000000000001263c       0x6d /tmp/cc5205iU.debug.temp.o
+ .debug_line    0x00000000000126a9       0x77 /tmp/ccy6SngB.debug.temp.o
+ .debug_line    0x0000000000012720       0x7b /tmp/ccaCOGcV.debug.temp.o
+ .debug_line    0x000000000001279b       0x7b /tmp/cc8zSr4K.debug.temp.o
+ .debug_line    0x0000000000012816       0x80 /tmp/ccx4cNdA.debug.temp.o
+ .debug_line    0x0000000000012896       0x7b /tmp/ccjD7Hja.debug.temp.o
+ .debug_line    0x0000000000012911       0x71 /tmp/ccT5upfo.debug.temp.o
+ .debug_line    0x0000000000012982       0x51 /tmp/cc6Sxguv.debug.temp.o
+ .debug_line    0x00000000000129d3       0x98 /tmp/ccg9HgHi.debug.temp.o
+ .debug_line    0x0000000000012a6b       0xb1 /tmp/ccMzxfzf.debug.temp.o
+ .debug_line    0x0000000000012b1c       0x9c /tmp/ccEGO2O4.debug.temp.o
+ .debug_line    0x0000000000012bb8       0x51 /tmp/cc4pMv4N.debug.temp.o
+ .debug_line    0x0000000000012c09       0x75 /tmp/ccDTTCSF.debug.temp.o
+ .debug_line    0x0000000000012c7e       0x55 /tmp/ccuWlLz6.debug.temp.o
+ .debug_line    0x0000000000012cd3       0x4c /tmp/ccsdQBTH.debug.temp.o
+
+.debug_str      0x0000000000000000     0x9133
+ .debug_str     0x0000000000000000      0x38a /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .debug_str     0x000000000000038a      0x11f /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                        0x3a8 (size before relaxing)
+ .debug_str     0x00000000000004a9      0x163 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                        0x4cd (size before relaxing)
+ .debug_str     0x000000000000060c      0x1d0 /tmp/cc2TgWMh.debug.temp.o
+                                        0x207 (size before relaxing)
+ .debug_str     0x00000000000007dc        0x9 /tmp/ccHsxt3V.debug.temp.o
+                                        0x1fb (size before relaxing)
+ .debug_str     0x00000000000007e5     0x12f7 /tmp/ccn9oFFC.debug.temp.o
+                                       0x14a0 (size before relaxing)
+ .debug_str     0x0000000000001adc       0x54 /tmp/cc7qUeLm.debug.temp.o
+                                        0x2b7 (size before relaxing)
+ .debug_str     0x0000000000001b30      0xaff /tmp/ccQ8R2Rk.debug.temp.o
+                                       0x1efc (size before relaxing)
+ .debug_str     0x000000000000262f      0xe27 /tmp/ccdrurys.debug.temp.o
+                                       0x2641 (size before relaxing)
+ .debug_str     0x0000000000003456      0x854 /tmp/cctF1saa.debug.temp.o
+                                       0x1d78 (size before relaxing)
+ .debug_str     0x0000000000003caa       0x3c /tmp/cc9bWshu.debug.temp.o
+                                       0x222b (size before relaxing)
+ .debug_str     0x0000000000003ce6     0x1057 /tmp/ccCcKoMd.debug.temp.o
+                                       0x3639 (size before relaxing)
+ .debug_str     0x0000000000004d3d      0x489 /tmp/ccIg6RdS.debug.temp.o
+                                       0x1bd3 (size before relaxing)
+ .debug_str     0x00000000000051c6      0x8b6 /tmp/cczpsSqS.debug.temp.o
+                                       0x32d1 (size before relaxing)
+ .debug_str     0x0000000000005a7c      0x397 /tmp/ccMIQUIA.debug.temp.o
+                                       0x1cc4 (size before relaxing)
+ .debug_str     0x0000000000005e13      0x49c /tmp/ccOCEjPZ.debug.temp.o
+                                       0x217c (size before relaxing)
+ .debug_str     0x00000000000062af      0x8c6 /tmp/ccZWJyLc.debug.temp.o
+                                       0x188b (size before relaxing)
+ .debug_str     0x0000000000006b75       0x6d /tmp/ccbxp0lG.debug.temp.o
+                                        0x2eb (size before relaxing)
+ .debug_str     0x0000000000006be2       0x13 /tmp/cc6TWOOo.debug.temp.o
+                                        0x24e (size before relaxing)
+ .debug_str     0x0000000000006bf5       0x35 /tmp/cc2F7358.debug.temp.o
+                                        0x277 (size before relaxing)
+ .debug_str     0x0000000000006c2a       0x14 /tmp/cclzbdDk.debug.temp.o
+                                        0x25d (size before relaxing)
+ .debug_str     0x0000000000006c3e      0x266 /tmp/ccdaJtiK.debug.temp.o
+ .debug_str     0x0000000000006c3e       0x16 /tmp/ccxw8pyr.debug.temp.o
+                                        0x253 (size before relaxing)
+ .debug_str     0x0000000000006c54      0x1a7 /tmp/ccQHqCJB.debug.temp.o
+                                        0x44f (size before relaxing)
+ .debug_str     0x0000000000006dfb       0x7a /tmp/ccLdDwKL.debug.temp.o
+                                        0x3a4 (size before relaxing)
+ .debug_str     0x0000000000006e75      0x374 /tmp/ccsaA6Y1.debug.temp.o
+                                        0x816 (size before relaxing)
+ .debug_str     0x00000000000071e9      0x195 /tmp/ccuTSIuf.debug.temp.o
+                                        0x6ca (size before relaxing)
+ .debug_str     0x000000000000737e       0x7f /tmp/ccdfbTl1.debug.temp.o
+                                        0x30a (size before relaxing)
+ .debug_str     0x00000000000073fd      0x145 /tmp/ccXR7dpe.debug.temp.o
+                                        0x3a0 (size before relaxing)
+ .debug_str     0x0000000000007542      0x253 /tmp/cc2d4kcQ.debug.temp.o
+ .debug_str     0x0000000000007542      0x1d3 /tmp/cciijJee.debug.temp.o
+                                        0x462 (size before relaxing)
+ .debug_str     0x0000000000007715      0x1bd /tmp/cc5205iU.debug.temp.o
+                                        0x664 (size before relaxing)
+ .debug_str     0x00000000000078d2       0xc3 /tmp/ccy6SngB.debug.temp.o
+                                        0x4d9 (size before relaxing)
+ .debug_str     0x0000000000007995      0x213 /tmp/ccaCOGcV.debug.temp.o
+                                        0xf3d (size before relaxing)
+ .debug_str     0x0000000000007ba8     0x12fd /tmp/cc8zSr4K.debug.temp.o
+ .debug_str     0x0000000000007ba8     0x1307 /tmp/ccx4cNdA.debug.temp.o
+ .debug_str     0x0000000000007ba8      0x26b /tmp/ccjD7Hja.debug.temp.o
+                                        0x696 (size before relaxing)
+ .debug_str     0x0000000000007e13      0xc80 /tmp/ccT5upfo.debug.temp.o
+ .debug_str     0x0000000000007e13       0xdd /tmp/cc6Sxguv.debug.temp.o
+                                        0x5b5 (size before relaxing)
+ .debug_str     0x0000000000007ef0      0x178 /tmp/ccg9HgHi.debug.temp.o
+                                       0x1550 (size before relaxing)
+ .debug_str     0x0000000000008068      0x505 /tmp/ccMzxfzf.debug.temp.o
+                                       0x1bec (size before relaxing)
+ .debug_str     0x000000000000856d      0x536 /tmp/ccEGO2O4.debug.temp.o
+                                       0x1905 (size before relaxing)
+ .debug_str     0x0000000000008aa3      0x273 /tmp/cc4pMv4N.debug.temp.o
+ .debug_str     0x0000000000008aa3      0x3d7 /tmp/ccDTTCSF.debug.temp.o
+                                        0x6a1 (size before relaxing)
+ .debug_str     0x0000000000008e7a      0x211 /tmp/ccuWlLz6.debug.temp.o
+                                        0x4a5 (size before relaxing)
+ .debug_str     0x000000000000908b       0xa8 /tmp/ccsdQBTH.debug.temp.o
+                                        0x2e1 (size before relaxing)
+
+.debug_line_str
+                0x0000000000000000     0x26d4
+ .debug_line_str
+                0x0000000000000000      0x487 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+                                        0x682 (size before relaxing)
+ .debug_line_str
+                0x0000000000000487      0x129 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+                                        0x5a9 (size before relaxing)
+ .debug_line_str
+                0x00000000000005b0       0x76 /tmp/ccxoqHzJ.ltrans2.ltrans.o
+                                        0x584 (size before relaxing)
+ .debug_line_str
+                0x0000000000000626       0xdf /tmp/cc2TgWMh.debug.temp.o
+                                        0x12a (size before relaxing)
+ .debug_line_str
+                0x0000000000000705       0x4b /tmp/ccHsxt3V.debug.temp.o
+                                        0x12a (size before relaxing)
+ .debug_line_str
+                0x0000000000000750      0x33b /tmp/ccn9oFFC.debug.temp.o
+                                        0x38f (size before relaxing)
+ .debug_line_str
+                0x0000000000000a8b      0x17a /tmp/cc7qUeLm.debug.temp.o
+                                        0x259 (size before relaxing)
+ .debug_line_str
+                0x0000000000000c05       0xd8 /tmp/ccQ8R2Rk.debug.temp.o
+                                        0x3b3 (size before relaxing)
+ .debug_line_str
+                0x0000000000000cdd       0xf4 /tmp/ccdrurys.debug.temp.o
+                                        0x40e (size before relaxing)
+ .debug_line_str
+                0x0000000000000dd1       0x83 /tmp/cctF1saa.debug.temp.o
+                                        0x33c (size before relaxing)
+ .debug_line_str
+                0x0000000000000e54       0x4d /tmp/cc9bWshu.debug.temp.o
+                                        0x40b (size before relaxing)
+ .debug_line_str
+                0x0000000000000ea1       0xa6 /tmp/ccCcKoMd.debug.temp.o
+                                        0x472 (size before relaxing)
+ .debug_line_str
+                0x0000000000000f47       0x4c /tmp/ccIg6RdS.debug.temp.o
+                                        0x32c (size before relaxing)
+ .debug_line_str
+                0x0000000000000f93       0xb1 /tmp/cczpsSqS.debug.temp.o
+                                        0x481 (size before relaxing)
+ .debug_line_str
+                0x0000000000001044       0x4a /tmp/ccMIQUIA.debug.temp.o
+                                        0x3c6 (size before relaxing)
+ .debug_line_str
+                0x000000000000108e       0x5a /tmp/ccOCEjPZ.debug.temp.o
+                                        0x363 (size before relaxing)
+ .debug_line_str
+                0x00000000000010e8      0x192 /tmp/ccZWJyLc.debug.temp.o
+                                        0x376 (size before relaxing)
+ .debug_line_str
+                0x000000000000127a       0xf3 /tmp/ccbxp0lG.debug.temp.o
+                                        0x23a (size before relaxing)
+ .debug_line_str
+                0x000000000000136d       0x51 /tmp/cc6TWOOo.debug.temp.o
+                                        0x1c7 (size before relaxing)
+ .debug_line_str
+                0x00000000000013be       0x54 /tmp/cc2F7358.debug.temp.o
+                                        0x1cd (size before relaxing)
+ .debug_line_str
+                0x0000000000001412       0x52 /tmp/cclzbdDk.debug.temp.o
+                                        0x1c9 (size before relaxing)
+ .debug_line_str
+                0x0000000000001464       0x51 /tmp/ccdaJtiK.debug.temp.o
+                                        0x1c7 (size before relaxing)
+ .debug_line_str
+                0x00000000000014b5       0xcb /tmp/ccxw8pyr.debug.temp.o
+                                        0x18e (size before relaxing)
+ .debug_line_str
+                0x0000000000001580       0x3f /tmp/ccQHqCJB.debug.temp.o
+                                        0x183 (size before relaxing)
+ .debug_line_str
+                0x00000000000015bf       0xbf /tmp/ccLdDwKL.debug.temp.o
+                                        0x238 (size before relaxing)
+ .debug_line_str
+                0x000000000000167e       0x41 /tmp/ccsaA6Y1.debug.temp.o
+                                        0x265 (size before relaxing)
+ .debug_line_str
+                0x00000000000016bf       0x3d /tmp/ccuTSIuf.debug.temp.o
+                                        0x23a (size before relaxing)
+ .debug_line_str
+                0x00000000000016fc       0x44 /tmp/ccdfbTl1.debug.temp.o
+                                        0x18d (size before relaxing)
+ .debug_line_str
+                0x0000000000001740       0x3d /tmp/ccXR7dpe.debug.temp.o
+                                        0x174 (size before relaxing)
+ .debug_line_str
+                0x000000000000177d       0x40 /tmp/cc2d4kcQ.debug.temp.o
+                                        0x18e (size before relaxing)
+ .debug_line_str
+                0x00000000000017bd       0xd9 /tmp/cciijJee.debug.temp.o
+                                        0x1de (size before relaxing)
+ .debug_line_str
+                0x0000000000001896       0xd4 /tmp/cc5205iU.debug.temp.o
+                                        0x28a (size before relaxing)
+ .debug_line_str
+                0x000000000000196a      0x19a /tmp/ccy6SngB.debug.temp.o
+                                        0x2dd (size before relaxing)
+ .debug_line_str
+                0x0000000000001b04       0xf2 /tmp/ccaCOGcV.debug.temp.o
+                                        0x2cb (size before relaxing)
+ .debug_line_str
+                0x0000000000001bf6      0x106 /tmp/cc8zSr4K.debug.temp.o
+                                        0x2df (size before relaxing)
+ .debug_line_str
+                0x0000000000001cfc       0xfa /tmp/ccx4cNdA.debug.temp.o
+                                        0x2e8 (size before relaxing)
+ .debug_line_str
+                0x0000000000001df6      0x172 /tmp/ccjD7Hja.debug.temp.o
+                                        0x315 (size before relaxing)
+ .debug_line_str
+                0x0000000000001f68       0x5a /tmp/ccT5upfo.debug.temp.o
+                                        0x2a4 (size before relaxing)
+ .debug_line_str
+                0x0000000000001fc2       0x66 /tmp/cc6Sxguv.debug.temp.o
+                                        0x1ca (size before relaxing)
+ .debug_line_str
+                0x0000000000002028      0x139 /tmp/ccg9HgHi.debug.temp.o
+                                        0x33e (size before relaxing)
+ .debug_line_str
+                0x0000000000002161       0x51 /tmp/ccMzxfzf.debug.temp.o
+                                        0x390 (size before relaxing)
+ .debug_line_str
+                0x00000000000021b2      0x152 /tmp/ccEGO2O4.debug.temp.o
+                                        0x357 (size before relaxing)
+ .debug_line_str
+                0x0000000000002304       0x49 /tmp/cc4pMv4N.debug.temp.o
+                                        0x1a0 (size before relaxing)
+ .debug_line_str
+                0x000000000000234d      0x1df /tmp/ccDTTCSF.debug.temp.o
+                                        0x331 (size before relaxing)
+ .debug_line_str
+                0x000000000000252c       0xf2 /tmp/ccuWlLz6.debug.temp.o
+                                        0x20e (size before relaxing)
+ .debug_line_str
+                0x000000000000261e       0xb6 /tmp/ccsdQBTH.debug.temp.o
+                                        0x173 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x3010
+ .debug_frame   0x0000000000000000      0xf88 /tmp/ccxoqHzJ.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000f88     0x18a8 /tmp/ccxoqHzJ.ltrans1.ltrans.o
+ .debug_frame   0x0000000000002830      0x7e0 /tmp/ccxoqHzJ.ltrans2.ltrans.o

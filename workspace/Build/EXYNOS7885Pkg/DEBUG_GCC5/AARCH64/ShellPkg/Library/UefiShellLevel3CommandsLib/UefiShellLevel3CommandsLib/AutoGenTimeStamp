@@ -1,0 +1,15 @@
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib.inf
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib.uni
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/Ver.c
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib.h
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/Echo.c
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib/DEBUG/UefiShellLevel3CommandsLibStrDefs.h
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib/DEBUG/AutoGen.h
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/Pause.c
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/GetMtc.c
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/Alias.c
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib.c
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/Help.c
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/Cls.c
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/Type.c
+/home/parallels/Desktop/edk2/ShellPkg/Library/UefiShellLevel3CommandsLib/Touch.c

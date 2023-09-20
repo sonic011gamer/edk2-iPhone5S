@@ -1,0 +1,5 @@
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/DebugAgentLibNull/DebugAgentLibNull/DEBUG/AutoGen.h
+/home/parallels/Desktop/edk2/MdeModulePkg/Include/Library/DebugAgentLib.h
+/home/parallels/Desktop/edk2/MdeModulePkg/Library/DebugAgentLibNull/DebugAgentLibNull.c
+/home/parallels/Desktop/edk2/MdePkg/Include/AArch64/ProcessorBind.h
+/home/parallels/Desktop/edk2/MdePkg/Include/Base.h

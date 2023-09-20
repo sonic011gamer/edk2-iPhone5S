@@ -1,0 +1,12 @@
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Library/EXYNOS7885PkgLib/EXYNOS7885PkgLib/OUTPUT/EXYNOS7885PkgHelper.obj:  /home/parallels/Desktop/edk2-exynos7885/EXYNOS7885Pkg/Library/EXYNOS7885PkgLib/EXYNOS7885PkgHelper.S \
+ /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Library/EXYNOS7885PkgLib/EXYNOS7885PkgLib/DEBUG/AutoGen.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Base.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/AArch64/ProcessorBind.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Library/PcdLib.h \
+ /home/parallels/Desktop/edk2/ArmPkg/Include/AsmMacroIoLibV8.h \
+ /home/parallels/Desktop/edk2/ArmPkg/Include/Library/ArmLib.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Uefi/UefiBaseType.h \
+ /home/parallels/Desktop/edk2/ArmPkg/Include/Chipset/AArch64.h \
+ /home/parallels/Desktop/edk2/ArmPkg/Include/Chipset/AArch64Mmu.h
+
+# Updated 

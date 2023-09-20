@@ -1,0 +1,9 @@
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmDisassemblerLib/ArmDisassemblerLib/OUTPUT/Aarch64Disassembler.obj:  /home/parallels/Desktop/edk2/ArmPkg/Library/ArmDisassemblerLib/Aarch64Disassembler.c \
+ /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmDisassemblerLib/ArmDisassemblerLib/DEBUG/AutoGen.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Base.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/AArch64/ProcessorBind.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Library/BaseLib.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Library/PrintLib.h \
+ /home/parallels/Desktop/edk2/ArmPkg/Include/Library/ArmDisassemblerLib.h
+
+# Updated 

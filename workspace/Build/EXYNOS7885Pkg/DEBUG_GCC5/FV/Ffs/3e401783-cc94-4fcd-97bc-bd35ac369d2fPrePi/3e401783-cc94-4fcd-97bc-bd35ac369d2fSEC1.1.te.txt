@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_TE -o /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/FV/Ffs/3e401783-cc94-4fcd-97bc-bd35ac369d2fPrePi/3e401783-cc94-4fcd-97bc-bd35ac369d2fSEC1.1.te /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/FV/Ffs/3e401783-cc94-4fcd-97bc-bd35ac369d2fPrePi/3e401783-cc94-4fcd-97bc-bd35ac369d2fTe.raw

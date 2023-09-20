@@ -1,0 +1,36 @@
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Library/MemoryInitPeiLib/PeiMemoryAllocationLib/OUTPUT/MemoryInitPeiLib.obj:  /home/parallels/Desktop/edk2-exynos7885/EXYNOS7885Pkg/Library/MemoryInitPeiLib/MemoryInitPeiLib.c \
+ /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Library/MemoryInitPeiLib/PeiMemoryAllocationLib/DEBUG/AutoGen.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Base.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/AArch64/ProcessorBind.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Library/PcdLib.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/PiPei.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Uefi/UefiBaseType.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Pi/PiPeiCis.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Uefi/UefiMultiPhase.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Guid/WinCertificate.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Pi/PiMultiPhase.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Pi/PiFirmwareVolume.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Pi/PiFirmwareFile.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Pi/PiBootMode.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Pi/PiHob.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Pi/PiDependency.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Pi/PiStatusCode.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Protocol/DebugSupport.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/IndustryStandard/PeImage.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Pi/PiS3BootScript.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Ppi/CpuIo.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Ppi/PciCfg2.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Library/BaseLib.h \
+ /home/parallels/Desktop/edk2/ArmPkg/Include/Library/ArmMmuLib.h \
+ /home/parallels/Desktop/edk2/ArmPkg/Include/Library/ArmLib.h \
+ /home/parallels/Desktop/edk2/ArmPkg/Include/Chipset/AArch64.h \
+ /home/parallels/Desktop/edk2/ArmPkg/Include/Chipset/AArch64Mmu.h \
+ /home/parallels/Desktop/edk2/ArmPlatformPkg/Include/Library/ArmPlatformLib.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Ppi/MasterBootMode.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Ppi/BootInRecoveryMode.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Library/DebugLib.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Library/HobLib.h \
+ /home/parallels/Desktop/edk2/MdePkg/Include/Library/MemoryAllocationLib.h \
+ /home/parallels/Desktop/edk2-exynos7885/EXYNOS7885Pkg/Include/Configuration/DeviceMemoryMap.h
+
+# Updated 

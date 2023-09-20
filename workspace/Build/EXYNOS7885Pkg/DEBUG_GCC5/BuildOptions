@@ -1,0 +1,4 @@
+gCommandLineDefines: {'ARCH': 'AARCH64'}
+BuildOptionPcd: []
+Active Platform: /home/parallels/Desktop/edk2-exynos7885/EXYNOS7885Pkg/Devices/j71.dsc
+Flash Image Definition: /home/parallels/Desktop/edk2-exynos7885/EXYNOS7885Pkg/EXYNOS7885Pkg.fdf

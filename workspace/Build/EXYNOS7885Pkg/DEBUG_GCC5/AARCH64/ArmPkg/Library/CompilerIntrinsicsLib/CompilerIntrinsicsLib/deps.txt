@@ -1,0 +1,6 @@
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/DEBUG/AutoGen.h
+/home/parallels/Desktop/edk2/ArmPkg/Library/CompilerIntrinsicsLib/AArch64/Atomics.S
+/home/parallels/Desktop/edk2/ArmPkg/Library/CompilerIntrinsicsLib/memcpy.c
+/home/parallels/Desktop/edk2/ArmPkg/Library/CompilerIntrinsicsLib/memset.c
+/home/parallels/Desktop/edk2/MdePkg/Include/AArch64/ProcessorBind.h
+/home/parallels/Desktop/edk2/MdePkg/Include/Base.h

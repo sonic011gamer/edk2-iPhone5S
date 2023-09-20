@@ -13,13 +13,13 @@
 
 [PcdsFixedAtBuild.common]
   # System Memory (1GB)
-  gArmTokenSpaceGuid.PcdSystemMemoryBase|0x80000000
+  gArmTokenSpaceGuid.PcdSystemMemoryBase|0x800000000
   gArmTokenSpaceGuid.PcdSystemMemorySize|0x40000000
   gEmbeddedTokenSpaceGuid.PcdPrePiStackBase|0x800C00000
   gEmbeddedTokenSpaceGuid.PcdPrePiStackSize|0x00040000      # 256K stack
-  gEXYNOS7885PkgTokenSpaceGuid.PcdUefiMemPoolBase|0x80D00000         # DXE Heap base address
+  gEXYNOS7885PkgTokenSpaceGuid.PcdUefiMemPoolBase|0x800D00000         # DXE Heap base address
   gEXYNOS7885PkgTokenSpaceGuid.PcdUefiMemPoolSize|0x03300000         # UefiMemorySize, DXE heap size
-  gArmTokenSpaceGuid.PcdCpuVectorBaseAddress|0x80C40000
+  gArmTokenSpaceGuid.PcdCpuVectorBaseAddress|0x800C40000
 
   # Framebuffer (720x1280)
   gEXYNOS7885PkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x083d200000

@@ -1,0 +1,12 @@
+-I/home/parallels/Desktop/edk2/ArmPkg/Drivers/ArmGic/GicV3/AArch64
+-I/home/parallels/Desktop/edk2/ArmPkg/Drivers/ArmGic/GicV2
+-I/home/parallels/Desktop/edk2/ArmPkg/Drivers/ArmGic
+-I/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Drivers/ArmGic/ArmGicLib/DEBUG
+-I/home/parallels/Desktop/edk2/ArmPkg
+-I/home/parallels/Desktop/edk2/ArmPkg/Include
+-I/home/parallels/Desktop/edk2/ArmPlatformPkg
+-I/home/parallels/Desktop/edk2/ArmPlatformPkg/Include
+-I/home/parallels/Desktop/edk2/MdePkg
+-I/home/parallels/Desktop/edk2/MdePkg/Include
+-I/home/parallels/Desktop/edk2/MdePkg/Test/UnitTest/Include
+-I/home/parallels/Desktop/edk2/MdePkg/Include/AArch64

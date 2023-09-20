@@ -1,0 +1,1061 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memcpy.obj)
+                              /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memcpy)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memset.obj)
+                              /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memset)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib(BaseStackCheckGcc.obj)
+                              /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (__stack_chk_fail)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Drivers/SmbiosPlatformDxe/SmbiosPlatformDxe/OUTPUT/SmbiosPlatformDxe.lib(AutoGen.obj)
+                              DriverEntryPoint.obj (symbol from plugin) (ProcessLibraryConstructorList)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Drivers/SmbiosPlatformDxe/SmbiosPlatformDxe/OUTPUT/SmbiosPlatformDxe.lib(SmbiosPlatformDxe.obj)
+                              AutoGen.obj (symbol from plugin) (SmbiosTablePublishEntry)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuDeadLoop)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              CpuDeadLoop.obj (symbol from plugin) (CpuPause)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuBreakpoint)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMemWrapper.obj)
+                              SmbiosPlatformDxe.obj (symbol from plugin) (CopyMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+                              CopyMemWrapper.obj (symbol from plugin) (InternalMemCopyMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib(DebugLib.obj)
+                              AutoGen.obj (symbol from plugin) (BaseDebugLibSerialPortConstructor)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiBootServicesTableLibConstructor)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiRuntimeServicesTableLibConstructor)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiLibConstructor)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              AutoGen.obj (symbol from plugin) (HobLibConstructor)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              UefiLib.obj (symbol from plugin) (StrSize)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              UefiLib.obj (symbol from plugin) (ReadUnaligned24)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              Unaligned.obj (symbol from plugin) (RShiftU64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              Unaligned.obj (symbol from plugin) (LShiftU64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              String.obj (symbol from plugin) (StrDecimalToUintnS)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              LShiftU64.obj (symbol from plugin) (InternalMathLShiftU64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes32)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes16)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              SafeString.obj (symbol from plugin) (MultU64x32)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              SafeString.obj (symbol from plugin) (DivU64x32)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(MemLibGuid.obj)
+                              SafeString.obj (symbol from plugin) (CopyGuid)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(ZeroMemWrapper.obj)
+                              UefiLib.obj (symbol from plugin) (ZeroMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMemWrapper.obj)
+                              DebugLib.obj (symbol from plugin) (SetMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+                              ZeroMemWrapper.obj (symbol from plugin) (InternalMemZeroMem)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+                              MemLibGuid.obj (symbol from plugin) (InternalMemCompareGuid)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem64Wrapper.obj)
+                              SetMemWrapper.obj (symbol from plugin) (SetMem64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              DebugLib.obj (symbol from plugin) (GetDebugPrintErrorLevel)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib(FrameBufferSerialPortLib.obj)
+                              DebugLib.obj (symbol from plugin) (SerialPortInitialize)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              DebugLib.obj (symbol from plugin) (AsciiVSPrint)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              PrintLib.obj (symbol from plugin) (BasePrintLibConvertValueToStringS)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              UefiLib.obj (symbol from plugin) (AllocatePool)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              UefiLib.obj (symbol from plugin) (DevicePathType)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilitiesDxeSmm.obj)
+                              DevicePathUtilities.obj (symbol from plugin) (DevicePathFromHandle)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              DevicePathUtilities.obj (symbol from plugin) (GetDevicePathSize)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertDeviceNodeToText)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertTextToDeviceNode)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              DevicePathFromText.obj (symbol from plugin) (SwapBytes64)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              PrintLibInternal.obj (symbol from plugin) (DivU64x32Remainder)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmGetInterruptState)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmEnableInterrupts)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib(ArmCacheMaintenanceLib.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (WriteBackInvalidateDataCacheRange)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLib.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmDataCacheLineLength)
+/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmInvalidateDataCacheEntryByMVA)
+
+Discarded input sections
+
+ .text          0x0000000000000000       0x10 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .text          0x0000000000000000        0x0 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.__memset
+                0x0000000000000000       0x1c /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2c /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2c /tmp/ccahl0HJ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccahl0HJ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc5I5RkH.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc5I5RkH.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccAXFC62.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccAXFC62.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccycCi6N.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccycCi6N.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccdrvZ30.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccdrvZ30.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccWN227o.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccWN227o.debug.temp.o
+ .debug_info    0x0000000000000000       0x9e /tmp/ccs56dS0.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x70 /tmp/ccs56dS0.debug.temp.o
+ .debug_line    0x0000000000000000       0x4c /tmp/ccs56dS0.debug.temp.o
+ .debug_str     0x0000000000000000      0x213 /tmp/ccs56dS0.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x17e /tmp/ccs56dS0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccs56dS0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccs56dS0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc22kHC1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc22kHC1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc2Vmyv5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc2Vmyv5.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccEeCm8r.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccEeCm8r.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccEyFdMr.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccEyFdMr.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccrDSvA0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrDSvA0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccYyLnjQ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccYyLnjQ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccghneKK.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccghneKK.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccqAUjzN.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccqAUjzN.debug.temp.o
+ .debug_info    0x0000000000000000      0x100 /tmp/cctWJW72.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb2 /tmp/cctWJW72.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/cctWJW72.debug.temp.o
+ .debug_str     0x0000000000000000      0x253 /tmp/cctWJW72.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x18e /tmp/cctWJW72.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cctWJW72.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cctWJW72.debug.temp.o
+ .debug_info    0x0000000000000000      0x100 /tmp/ccJEhbyZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb2 /tmp/ccJEhbyZ.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/ccJEhbyZ.debug.temp.o
+ .debug_str     0x0000000000000000      0x253 /tmp/ccJEhbyZ.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x18e /tmp/ccJEhbyZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccJEhbyZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJEhbyZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccixRcRr.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccixRcRr.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccJlar4a.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJlar4a.debug.temp.o
+ .debug_info    0x0000000000000000       0xbd /tmp/ccEzz5vY.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x88 /tmp/ccEzz5vY.debug.temp.o
+ .debug_line    0x0000000000000000       0x4c /tmp/ccEzz5vY.debug.temp.o
+ .debug_str     0x0000000000000000      0x22e /tmp/ccEzz5vY.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x17e /tmp/ccEzz5vY.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccEzz5vY.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccEzz5vY.debug.temp.o
+ .debug_info    0x0000000000000000       0x8a /tmp/ccYLorVc.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x57 /tmp/ccYLorVc.debug.temp.o
+ .debug_line    0x0000000000000000       0x43 /tmp/ccYLorVc.debug.temp.o
+ .debug_str     0x0000000000000000      0x204 /tmp/ccYLorVc.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x140 /tmp/ccYLorVc.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccYLorVc.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccYLorVc.debug.temp.o
+ .debug_info    0x0000000000000000       0xc1 /tmp/ccHdrqtq.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x88 /tmp/ccHdrqtq.debug.temp.o
+ .debug_line    0x0000000000000000       0x48 /tmp/ccHdrqtq.debug.temp.o
+ .debug_str     0x0000000000000000      0x23a /tmp/ccHdrqtq.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x151 /tmp/ccHdrqtq.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccHdrqtq.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccHdrqtq.debug.temp.o
+ .debug_info    0x0000000000000000      0x10b /tmp/ccXJQeGN.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb2 /tmp/ccXJQeGN.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/ccXJQeGN.debug.temp.o
+ .debug_str     0x0000000000000000      0x25d /tmp/ccXJQeGN.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x18e /tmp/ccXJQeGN.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccXJQeGN.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccXJQeGN.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccigqxJc.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccigqxJc.debug.temp.o
+ .debug_info    0x0000000000000000      0x104 /tmp/ccoohboY.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb8 /tmp/ccoohboY.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/ccoohboY.debug.temp.o
+ .debug_str     0x0000000000000000      0x24e /tmp/ccoohboY.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x1c7 /tmp/ccoohboY.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccoohboY.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoohboY.debug.temp.o
+ .debug_info    0x0000000000000000      0x17a /tmp/ccQDizFe.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xce /tmp/ccQDizFe.debug.temp.o
+ .debug_line    0x0000000000000000       0x56 /tmp/ccQDizFe.debug.temp.o
+ .debug_str     0x0000000000000000      0x270 /tmp/ccQDizFe.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x1d5 /tmp/ccQDizFe.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccQDizFe.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQDizFe.debug.temp.o
+ .debug_info    0x0000000000000000      0x114 /tmp/cciIh440.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb8 /tmp/cciIh440.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/cciIh440.debug.temp.o
+ .debug_str     0x0000000000000000      0x256 /tmp/cciIh440.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x1c9 /tmp/cciIh440.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cciIh440.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cciIh440.debug.temp.o
+ .debug_info    0x0000000000000000       0xb3 /tmp/ccGvgGl7.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x88 /tmp/ccGvgGl7.debug.temp.o
+ .debug_line    0x0000000000000000       0x4c /tmp/ccGvgGl7.debug.temp.o
+ .debug_str     0x0000000000000000      0x260 /tmp/ccGvgGl7.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x260 /tmp/ccGvgGl7.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccGvgGl7.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccGvgGl7.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccgiwNBt.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccgiwNBt.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccn9kzUh.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccn9kzUh.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccp1npS5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccp1npS5.debug.temp.o
+ .debug_info    0x0000000000000000     0x1359 /tmp/ccGasoRm.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x26b /tmp/ccGasoRm.debug.temp.o
+ .debug_line    0x0000000000000000       0x7b /tmp/ccGasoRm.debug.temp.o
+ .debug_str     0x0000000000000000      0xf3d /tmp/ccGasoRm.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x2cb /tmp/ccGasoRm.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccGasoRm.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccGasoRm.debug.temp.o
+ .debug_info    0x0000000000000000      0x6ac /tmp/ccIhYaRS.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x1e6 /tmp/ccIhYaRS.debug.temp.o
+ .debug_line    0x0000000000000000       0x7b /tmp/ccIhYaRS.debug.temp.o
+ .debug_str     0x0000000000000000      0x696 /tmp/ccIhYaRS.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x315 /tmp/ccIhYaRS.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccIhYaRS.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccIhYaRS.debug.temp.o
+ .debug_info    0x0000000000000000      0xe34 /tmp/cck5AWg3.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x196 /tmp/cck5AWg3.debug.temp.o
+ .debug_line    0x0000000000000000       0x71 /tmp/cck5AWg3.debug.temp.o
+ .debug_str     0x0000000000000000      0xc80 /tmp/cck5AWg3.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x2a4 /tmp/cck5AWg3.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cck5AWg3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cck5AWg3.debug.temp.o
+ .debug_info    0x0000000000000000      0x3f7 /tmp/ccM9HEOW.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x114 /tmp/ccM9HEOW.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/ccM9HEOW.debug.temp.o
+ .debug_str     0x0000000000000000      0x5b5 /tmp/ccM9HEOW.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x1ca /tmp/ccM9HEOW.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccM9HEOW.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccM9HEOW.debug.temp.o
+ .debug_info    0x0000000000000000     0x25cc /tmp/cco3lrTS.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x2bf /tmp/cco3lrTS.debug.temp.o
+ .debug_line    0x0000000000000000       0xa5 /tmp/cco3lrTS.debug.temp.o
+ .debug_str     0x0000000000000000     0x145f /tmp/cco3lrTS.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x3ef /tmp/cco3lrTS.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cco3lrTS.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cco3lrTS.debug.temp.o
+ .debug_info    0x0000000000000000     0x2ed7 /tmp/ccChmWFu.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x2a4 /tmp/ccChmWFu.debug.temp.o
+ .debug_line    0x0000000000000000       0x9b /tmp/ccChmWFu.debug.temp.o
+ .debug_str     0x0000000000000000     0x1e24 /tmp/ccChmWFu.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x3dd /tmp/ccChmWFu.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccChmWFu.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccChmWFu.debug.temp.o
+ .debug_info    0x0000000000000000       0xa0 /tmp/ccWrzymF.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x75 /tmp/ccWrzymF.debug.temp.o
+ .debug_line    0x0000000000000000       0x48 /tmp/ccWrzymF.debug.temp.o
+ .debug_str     0x0000000000000000      0x21c /tmp/ccWrzymF.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x153 /tmp/ccWrzymF.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccWrzymF.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccWrzymF.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccTjJwm2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccTjJwm2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccY9hhFm.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccY9hhFm.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc3HGjtJ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc3HGjtJ.debug.temp.o
+ .text          0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .text          0x0000000000000000      0x200 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+ .text          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadMidr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetFiqState
+                0x0000000000000000       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpacr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteAuxCr
+                0x0000000000000000       0x28 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadAuxCr
+                0x0000000000000000       0x28 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTTBR0
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTTBR0BaseAddress
+                0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTCR
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTCR
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetMAIR
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetMAIR
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmUpdateTranslationTableEntry
+                0x0000000000000000       0x54 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmInvalidateTlb
+                0x0000000000000000       0x38 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCptr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteScr
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteMVBar
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallWFE
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallSEV
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadCpuActlr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpuActlr
+                0x0000000000000000       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadSctlr
+                0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteSctlr
+                0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetPhysicalAddressBits
+                0x0000000000000000       0x24 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmIsMpCore
+                0x0000000000000000       0x14 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableAsynchronousAbort
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAsynchronousAbort
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableIrq
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableIrq
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableFiq
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableFiq
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAllExceptions
+                0x0000000000000000        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCCSIDR
+                0x0000000000000000       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCLIDR
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .data          0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .bss           0x0000000000000000        0x0 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCache
+                0x0000000000000000       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableMmu
+                0x0000000000000000       0x88 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableMmu
+                0x0000000000000000       0x74 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableCachesAndMmu
+                0x0000000000000000       0x6c /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmMmuEnabled
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableDataCache
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableDataCache
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableInstructionCache
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableInstructionCache
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableAlignmentCheck
+                0x0000000000000000       0x58 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableAlignmentCheck
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableStackAlignmentCheck
+                0x0000000000000000       0x58 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableStackAlignmentCheck
+                0x0000000000000000       0x68 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableBranchPrediction
+                0x0000000000000000        0x4 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableBranchPrediction
+                0x0000000000000000        0x4 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.AArch64AllDataCachesOperation
+                0x0000000000000000       0xa8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDataMemoryBarrier
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInstructionSynchronizationBarrier
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteVBar
+                0x0000000000000000       0x34 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadVBar
+                0x0000000000000000       0x30 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableVFP
+                0x0000000000000000       0x64 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCallWFI
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdAA64Mmfr2
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadMpidr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadTpidrurw
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteTpidrurw
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmIsArchTimerImplemented
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdAA64Pfr0
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteHcr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadHcr
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCurrentEL
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCntHctl
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteCntHctl
+                0x0000000000000000        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+START GROUP
+LOAD /tmp/ccLwGfZR.ltrans0.ltrans.o
+LOAD /tmp/ccahl0HJ.debug.temp.o
+LOAD /tmp/cc5I5RkH.debug.temp.o
+LOAD /tmp/ccAXFC62.debug.temp.o
+LOAD /tmp/ccycCi6N.debug.temp.o
+LOAD /tmp/ccdrvZ30.debug.temp.o
+LOAD /tmp/ccWN227o.debug.temp.o
+LOAD /tmp/ccs56dS0.debug.temp.o
+LOAD /tmp/cc22kHC1.debug.temp.o
+LOAD /tmp/cc2Vmyv5.debug.temp.o
+LOAD /tmp/ccEeCm8r.debug.temp.o
+LOAD /tmp/ccEyFdMr.debug.temp.o
+LOAD /tmp/ccrDSvA0.debug.temp.o
+LOAD /tmp/ccYyLnjQ.debug.temp.o
+LOAD /tmp/ccghneKK.debug.temp.o
+LOAD /tmp/ccqAUjzN.debug.temp.o
+LOAD /tmp/cctWJW72.debug.temp.o
+LOAD /tmp/ccJEhbyZ.debug.temp.o
+LOAD /tmp/ccixRcRr.debug.temp.o
+LOAD /tmp/ccJlar4a.debug.temp.o
+LOAD /tmp/ccEzz5vY.debug.temp.o
+LOAD /tmp/ccYLorVc.debug.temp.o
+LOAD /tmp/ccHdrqtq.debug.temp.o
+LOAD /tmp/ccXJQeGN.debug.temp.o
+LOAD /tmp/ccigqxJc.debug.temp.o
+LOAD /tmp/ccoohboY.debug.temp.o
+LOAD /tmp/ccQDizFe.debug.temp.o
+LOAD /tmp/cciIh440.debug.temp.o
+LOAD /tmp/ccGvgGl7.debug.temp.o
+LOAD /tmp/ccgiwNBt.debug.temp.o
+LOAD /tmp/ccn9kzUh.debug.temp.o
+LOAD /tmp/ccp1npS5.debug.temp.o
+LOAD /tmp/ccGasoRm.debug.temp.o
+LOAD /tmp/ccIhYaRS.debug.temp.o
+LOAD /tmp/cck5AWg3.debug.temp.o
+LOAD /tmp/ccM9HEOW.debug.temp.o
+LOAD /tmp/cco3lrTS.debug.temp.o
+LOAD /tmp/ccChmWFu.debug.temp.o
+LOAD /tmp/ccWrzymF.debug.temp.o
+LOAD /tmp/ccTjJwm2.debug.temp.o
+LOAD /tmp/ccY9hhFm.debug.temp.o
+LOAD /tmp/cc3HGjtJ.debug.temp.o
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Drivers/SmbiosPlatformDxe/SmbiosPlatformDxe/OUTPUT/SmbiosPlatformDxe.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/RegisterFilterLibNull/RegisterFilterLibNull/OUTPUT/FilterLibNull.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib
+END GROUP
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.gnu.version_d  0x0000000000000228        0x0
+ .gnu.version_d
+                0x0000000000000228        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version    0x0000000000000228        0x0
+ .gnu.version   0x0000000000000228        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version_r  0x0000000000000228        0x0
+ .gnu.version_r
+                0x0000000000000228        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.text           0x0000000000001000     0x2b60
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.DebugPrintLevelEnabled.constprop.0
+                0x0000000000001000        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.InstallStructures
+                0x0000000000001008       0x7c /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.DebugAssertEnabled
+                0x0000000000001084        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.DebugPrintEnabled
+                0x000000000000108c        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.AsciiStrnLenS
+                0x0000000000001094       0x3c /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x00000000000010d0       0x34 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.BaseDebugLibSerialPortConstructor
+                0x0000000000001104       0x84 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.FbConFlush
+                0x0000000000001188       0x58 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.SerialPortWrite.isra.0
+                0x00000000000011e0      0x3f0 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.BasePrintLibSPrint.constprop.0
+                0x00000000000015d0       0x94 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.0
+                0x0000000000001664      0xbe0 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.AsciiSPrint.constprop.0
+                0x0000000000002244       0xa8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.DebugAssert
+                0x00000000000022ec       0x78 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.AsciiStrLen
+                0x0000000000002364       0x74 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.ReadUnaligned16
+                0x00000000000023d8       0x5c /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.CompareGuid.constprop.0
+                0x0000000000002434       0x44 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.DebugPrint.constprop.0
+                0x0000000000002478       0xb8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.CopyMem.constprop.0.isra.0
+                0x0000000000002530       0x84 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .text.memcpy   0x00000000000025b4       0x20 /tmp/ccLwGfZR.ltrans0.ltrans.o
+                0x00000000000025b4                memcpy
+ .text._ModuleEntryPoint
+                0x00000000000025d4      0x39c /tmp/ccLwGfZR.ltrans0.ltrans.o
+                0x00000000000025d4                _ModuleEntryPoint
+ .text.__stack_chk_fail
+                0x0000000000002970       0x40 /tmp/ccLwGfZR.ltrans0.ltrans.o
+                0x0000000000002970                __stack_chk_fail
+ .text          0x00000000000029b0      0x218 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+                0x0000000000002b1c                InternalMemCopyMem
+ *fill*         0x0000000000002bc8       0x18 
+ .text          0x0000000000002be0       0x20 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+                0x0000000000002be0                InternalMemCompareGuid
+ .text.ArmCacheInfo
+                0x0000000000002c00        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x0000000000002c00                ArmCacheInfo
+ .text.ArmGetInterruptState
+                0x0000000000002c08       0x10 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x0000000000002c08                ArmGetInterruptState
+ .text.ArmEnableInterrupts
+                0x0000000000002c18        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x0000000000002c18                ArmEnableInterrupts
+ .text.ArmDisableInterrupts
+                0x0000000000002c24        0xc /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x0000000000002c24                ArmDisableInterrupts
+ .text.ArmCleanInvalidateDataCacheEntryByMVA
+                0x0000000000002c30        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x0000000000002c30                ArmCleanInvalidateDataCacheEntryByMVA
+ .text.ArmDataSynchronizationBarrier
+                0x0000000000002c38        0x8 /home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x0000000000002c38                ArmDataSynchronizationBarrier
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.BasePrintLibSPrintMarker.constprop.0.str1.1
+                0x0000000000002c40      0x193 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ *fill*         0x0000000000002dd3        0x1 
+ .rodata.BasePrintLibSPrintMarker.constprop.0
+                0x0000000000002dd4       0x5e /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.AsciiSPrint.constprop.0.str1.1
+                0x0000000000002e32       0x18 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.DebugAssert.str1.1
+                0x0000000000002e4a       0x12 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.AsciiStrLen.str1.1
+                0x0000000000002e5c       0x75 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.ReadUnaligned16.str1.1
+                0x0000000000002ed1       0x44 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.CompareGuid.constprop.0.str1.1
+                0x0000000000002f15       0x67 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.CopyMem.constprop.0.isra.0.str1.1
+                0x0000000000002f7c       0xd2 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x000000000000304e      0x2ea /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.__stack_chk_fail.str1.1
+                0x0000000000003338       0x2e /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType1
+                0x0000000000003366       0x48 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType16
+                0x00000000000033ae       0x19 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType17
+                0x00000000000033c7       0x6f /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType19
+                0x0000000000003436       0x21 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType3
+                0x0000000000003457       0x35 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType32
+                0x000000000000348c        0xd /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType4_a53
+                0x0000000000003499       0x77 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType4_a57
+                0x0000000000003510       0x77 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType7_a53_l1d
+                0x0000000000003587       0x36 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType7_a53_l1i
+                0x00000000000035bd       0x36 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType7_a53_l2
+                0x00000000000035f3       0x36 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType7_a57_l1d
+                0x0000000000003629       0x36 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType7_a57_l1i
+                0x000000000000365f       0x36 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType7_a57_l2
+                0x0000000000003695       0x36 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType9_0
+                0x00000000000036cb       0x45 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType9_1
+                0x0000000000003710       0x45 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType9_2
+                0x0000000000003755       0x45 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mArmDefaultType9_3
+                0x000000000000379a       0x45 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mErrorString
+                0x00000000000037df      0x2b5 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mHexStr
+                0x0000000000003a94       0x10 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .rodata.mWarningString
+                0x0000000000003aa4       0x96 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ *(.got .got.*)
+ *fill*         0x0000000000003b3a        0x6 
+ .got           0x0000000000003b40        0x8 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+                0x0000000000003b40                _GLOBAL_OFFSET_TABLE_
+ .got.plt       0x0000000000003b48       0x18 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000003b60        0x0
+ .plt           0x0000000000003b60        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.data           0x0000000000004000      0x4d0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.ro   0x0000000000004000        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data.DefaultCommonTables
+                0x0000000000004000       0x80 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .data.DefaultTablesR0R1
+                0x0000000000004080       0x28 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .data.__stack_chk_guard
+                0x00000000000040a8        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+                0x00000000000040a8                __stack_chk_guard
+ .data.font5x12
+                0x00000000000040b0      0x300 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .data.gEfiHobListGuid
+                0x00000000000043b0       0x10 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .data.gEfiSmbiosProtocolGuid
+                0x00000000000043c0       0x10 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .data.mArmDefaultType0
+                0x00000000000043d0       0x4f /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .data.mArmDefaultType2
+                0x000000000000441f       0x4c /tmp/ccLwGfZR.ltrans0.ltrans.o
+ *(.bss .bss.*)
+ *fill*         0x000000000000446b        0x5 
+ .bss.gBS       0x0000000000004470        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x0000000000004478        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .bss.gRT       0x0000000000004480        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .bss.gST       0x0000000000004488        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .bss.mHobList  0x0000000000004490        0x8 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .bss.m_Color   0x0000000000004498       0x10 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .bss.m_Initialized
+                0x00000000000044a8        0x1 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ *fill*         0x00000000000044a9        0x7 
+ .bss.m_MaxPosition
+                0x00000000000044b0       0x10 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .bss.m_Position
+                0x00000000000044c0       0x10 /tmp/ccLwGfZR.ltrans0.ltrans.o
+
+.dynbss         0x00000000000044d0        0x0
+ .dynbss        0x00000000000044d0        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x00000000000044d0      0x1c8
+ *(.rela .rela.*)
+ .rela.got      0x00000000000044d0        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.plt      0x00000000000044d0        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.bss      0x00000000000044d0        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.rel.ro
+                0x00000000000044d0        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.ifunc    0x00000000000044d0        0x0 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.DefaultCommonTables
+                0x00000000000044d0      0x168 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.DefaultTablesR0R1
+                0x0000000000004638       0x60 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000004698       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000004698       0x24 /home/parallels/Desktop/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+OUTPUT(/home/parallels/Desktop/edk2-exynos7885/workspace/Build/EXYNOS7885Pkg/DEBUG_GCC5/AARCH64/EXYNOS7885Pkg/Drivers/SmbiosPlatformDxe/SmbiosPlatformDxe/DEBUG/SmbiosPlatformDxe.dll elf64-littleaarch64)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x14a78
+ .debug_info    0x0000000000000000     0x1ea3 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .debug_info    0x0000000000001ea3       0xf2 /tmp/ccahl0HJ.debug.temp.o
+                0x0000000000001ea3                memcpy.c.ca7d7127
+ .debug_info    0x0000000000001f95       0xaf /tmp/cc5I5RkH.debug.temp.o
+                0x0000000000001f95                memset.c.8fcd00d9
+ .debug_info    0x0000000000002044     0x1944 /tmp/ccAXFC62.debug.temp.o
+                0x0000000000002044                DriverEntryPoint.c.a6382bfa
+ .debug_info    0x0000000000003988      0x12a /tmp/ccycCi6N.debug.temp.o
+                0x0000000000003988                BaseStackCheckGcc.c.69721062
+ .debug_info    0x0000000000003ab2     0x1dcc /tmp/ccdrvZ30.debug.temp.o
+                0x0000000000003ab2                AutoGen.c.7c3c9794
+ .debug_info    0x000000000000587e     0x3fec /tmp/ccWN227o.debug.temp.o
+                0x000000000000587e                SmbiosPlatformDxe.c.cd5ba4a0
+ .debug_info    0x000000000000986a      0x119 /tmp/cc22kHC1.debug.temp.o
+                0x000000000000986a                CopyMemWrapper.c.2d7cc1a5
+ .debug_info    0x0000000000009983      0x3d4 /tmp/cc2Vmyv5.debug.temp.o
+                0x0000000000009983                DebugLib.c.140d8a42
+ .debug_info    0x0000000000009d57     0x1762 /tmp/ccEeCm8r.debug.temp.o
+                0x0000000000009d57                UefiBootServicesTableLib.c.c8c50134
+ .debug_info    0x000000000000b4b9     0x1739 /tmp/ccEyFdMr.debug.temp.o
+                0x000000000000b4b9                UefiRuntimeServicesTableLib.c.21840ab8
+ .debug_info    0x000000000000cbf2     0x25cc /tmp/ccrDSvA0.debug.temp.o
+                0x000000000000cbf2                UefiLib.c.a38e5737
+ .debug_info    0x000000000000f1be     0x20ef /tmp/ccYyLnjQ.debug.temp.o
+                0x000000000000f1be                HobLib.c.aa4e26ff
+ .debug_info    0x00000000000112ad      0x7a9 /tmp/ccghneKK.debug.temp.o
+                0x00000000000112ad                String.c.d9166835
+ .debug_info    0x0000000000011a56      0x288 /tmp/ccqAUjzN.debug.temp.o
+                0x0000000000011a56                Unaligned.c.bee98f61
+ .debug_info    0x0000000000011cde     0x10b0 /tmp/ccixRcRr.debug.temp.o
+                0x0000000000011cde                SafeString.c.1357afb5
+ .debug_info    0x0000000000012d8e      0x2d6 /tmp/ccJlar4a.debug.temp.o
+                0x0000000000012d8e                Math64.c.3d5bb2b9
+ .debug_info    0x0000000000013064      0x22d /tmp/ccigqxJc.debug.temp.o
+                0x0000000000013064                MemLibGuid.c.2a8f9d16
+ .debug_info    0x0000000000013291      0x5bf /tmp/ccgiwNBt.debug.temp.o
+                0x0000000000013291                FrameBufferSerialPortLib.c.02945832
+ .debug_info    0x0000000000013850      0x5bf /tmp/ccn9kzUh.debug.temp.o
+                0x0000000000013850                PrintLib.c.03e7575f
+ .debug_info    0x0000000000013e0f      0x79c /tmp/ccp1npS5.debug.temp.o
+                0x0000000000013e0f                PrintLibInternal.c.4386dd4c
+ .debug_info    0x00000000000145ab      0x121 /tmp/ccTjJwm2.debug.temp.o
+                0x00000000000145ab                DivU64x32Remainder.c.51b74649
+ .debug_info    0x00000000000146cc      0x25b /tmp/ccY9hhFm.debug.temp.o
+                0x00000000000146cc                ArmCacheMaintenanceLib.c.e0d69149
+ .debug_info    0x0000000000014927      0x151 /tmp/cc3HGjtJ.debug.temp.o
+                0x0000000000014927                ArmLib.c.e988afac
+
+.debug_abbrev   0x0000000000000000     0x267e
+ .debug_abbrev  0x0000000000000000      0x294 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000294       0xaa /tmp/ccahl0HJ.debug.temp.o
+ .debug_abbrev  0x000000000000033e       0x77 /tmp/cc5I5RkH.debug.temp.o
+ .debug_abbrev  0x00000000000003b5      0x254 /tmp/ccAXFC62.debug.temp.o
+ .debug_abbrev  0x0000000000000609       0xf3 /tmp/ccycCi6N.debug.temp.o
+ .debug_abbrev  0x00000000000006fc      0x2ce /tmp/ccdrvZ30.debug.temp.o
+ .debug_abbrev  0x00000000000009ca      0x2ea /tmp/ccWN227o.debug.temp.o
+ .debug_abbrev  0x0000000000000cb4       0xbe /tmp/cc22kHC1.debug.temp.o
+ .debug_abbrev  0x0000000000000d72      0x19c /tmp/cc2Vmyv5.debug.temp.o
+ .debug_abbrev  0x0000000000000f0e      0x201 /tmp/ccEeCm8r.debug.temp.o
+ .debug_abbrev  0x000000000000110f      0x1d1 /tmp/ccEyFdMr.debug.temp.o
+ .debug_abbrev  0x00000000000012e0      0x2f1 /tmp/ccrDSvA0.debug.temp.o
+ .debug_abbrev  0x00000000000015d1      0x2cd /tmp/ccYyLnjQ.debug.temp.o
+ .debug_abbrev  0x000000000000189e      0x157 /tmp/ccghneKK.debug.temp.o
+ .debug_abbrev  0x00000000000019f5       0xcf /tmp/ccqAUjzN.debug.temp.o
+ .debug_abbrev  0x0000000000001ac4      0x1c7 /tmp/ccixRcRr.debug.temp.o
+ .debug_abbrev  0x0000000000001c8b       0xd0 /tmp/ccJlar4a.debug.temp.o
+ .debug_abbrev  0x0000000000001d5b      0x105 /tmp/ccigqxJc.debug.temp.o
+ .debug_abbrev  0x0000000000001e60      0x245 /tmp/ccgiwNBt.debug.temp.o
+ .debug_abbrev  0x00000000000020a5      0x172 /tmp/ccn9kzUh.debug.temp.o
+ .debug_abbrev  0x0000000000002217      0x1ce /tmp/ccp1npS5.debug.temp.o
+ .debug_abbrev  0x00000000000023e5       0xb2 /tmp/ccTjJwm2.debug.temp.o
+ .debug_abbrev  0x0000000000002497       0xf8 /tmp/ccY9hhFm.debug.temp.o
+ .debug_abbrev  0x000000000000258f       0xef /tmp/cc3HGjtJ.debug.temp.o
+
+.debug_loclists
+                0x0000000000000000     0x266e
+ .debug_loclists
+                0x0000000000000000     0x266e /tmp/ccLwGfZR.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x190
+ .debug_aranges
+                0x0000000000000000      0x190 /tmp/ccLwGfZR.ltrans0.ltrans.o
+
+.debug_rnglists
+                0x0000000000000000      0x286
+ .debug_rnglists
+                0x0000000000000000      0x286 /tmp/ccLwGfZR.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x1a5e
+ .debug_line    0x0000000000000000     0x10c0 /tmp/ccLwGfZR.ltrans0.ltrans.o
+ .debug_line    0x00000000000010c0       0x3a /tmp/ccahl0HJ.debug.temp.o
+ .debug_line    0x00000000000010fa       0x3a /tmp/cc5I5RkH.debug.temp.o
+ .debug_line    0x0000000000001134       0x93 /tmp/ccAXFC62.debug.temp.o
+ .debug_line    0x00000000000011c7       0x5a /tmp/ccycCi6N.debug.temp.o
+ .debug_line    0x0000000000001221       0x93 /tmp/ccdrvZ30.debug.temp.o
+ .debug_line    0x00000000000012b4       0x9c /tmp/ccWN227o.debug.temp.o
+ .debug_line    0x0000000000001350       0x51 /tmp/cc22kHC1.debug.temp.o
+ .debug_line    0x00000000000013a1       0x77 /tmp/cc2Vmyv5.debug.temp.o
+ .debug_line    0x0000000000001418       0x80 /tmp/ccEeCm8r.debug.temp.o
+ .debug_line    0x0000000000001498       0x7b /tmp/ccEyFdMr.debug.temp.o
+ .debug_line    0x0000000000001513       0xb1 /tmp/ccrDSvA0.debug.temp.o
+ .debug_line    0x00000000000015c4       0x9c /tmp/ccYyLnjQ.debug.temp.o
+ .debug_line    0x0000000000001660       0x63 /tmp/ccghneKK.debug.temp.o
+ .debug_line    0x00000000000016c3       0x51 /tmp/ccqAUjzN.debug.temp.o
+ .debug_line    0x0000000000001714       0x6d /tmp/ccixRcRr.debug.temp.o
+ .debug_line    0x0000000000001781       0x4c /tmp/ccJlar4a.debug.temp.o
+ .debug_line    0x00000000000017cd       0x5e /tmp/ccigqxJc.debug.temp.o
+ .debug_line    0x000000000000182b       0x75 /tmp/ccgiwNBt.debug.temp.o
+ .debug_line    0x00000000000018a0       0x5f /tmp/ccn9kzUh.debug.temp.o
+ .debug_line    0x00000000000018ff       0x6d /tmp/ccp1npS5.debug.temp.o
+ .debug_line    0x000000000000196c       0x51 /tmp/ccTjJwm2.debug.temp.o
+ .debug_line    0x00000000000019bd       0x55 /tmp/ccY9hhFm.debug.temp.o
+ .debug_line    0x0000000000001a12       0x4c /tmp/cc3HGjtJ.debug.temp.o
+
+.debug_str      0x0000000000000000     0x8cb7
+ .debug_str     0x0000000000000000      0x1bb /tmp/ccLwGfZR.ltrans0.ltrans.o
+                                        0x1d4 (size before relaxing)
+ .debug_str     0x00000000000001bb      0x1d0 /tmp/ccahl0HJ.debug.temp.o
+                                        0x207 (size before relaxing)
+ .debug_str     0x000000000000038b        0x9 /tmp/cc5I5RkH.debug.temp.o
+                                        0x1fb (size before relaxing)
+ .debug_str     0x0000000000000394     0x130b /tmp/ccAXFC62.debug.temp.o
+                                       0x14a0 (size before relaxing)
+ .debug_str     0x000000000000169f       0x54 /tmp/ccycCi6N.debug.temp.o
+                                        0x2b7 (size before relaxing)
+ .debug_str     0x00000000000016f3      0x975 /tmp/ccdrvZ30.debug.temp.o
+                                       0x1d72 (size before relaxing)
+ .debug_str     0x0000000000002068     0x4d09 /tmp/ccWN227o.debug.temp.o
+                                       0x61f7 (size before relaxing)
+ .debug_str     0x0000000000006d71       0x32 /tmp/cc22kHC1.debug.temp.o
+                                        0x266 (size before relaxing)
+ .debug_str     0x0000000000006da3      0x164 /tmp/cc2Vmyv5.debug.temp.o
+                                        0x4d9 (size before relaxing)
+ .debug_str     0x0000000000006f07     0x1307 /tmp/ccEeCm8r.debug.temp.o
+ .debug_str     0x0000000000006f07     0x12fd /tmp/ccEyFdMr.debug.temp.o
+ .debug_str     0x0000000000006f07      0x6d3 /tmp/ccrDSvA0.debug.temp.o
+                                       0x1bec (size before relaxing)
+ .debug_str     0x00000000000075da      0x536 /tmp/ccYyLnjQ.debug.temp.o
+                                       0x1905 (size before relaxing)
+ .debug_str     0x0000000000007b10      0x2f7 /tmp/ccghneKK.debug.temp.o
+                                        0x6ca (size before relaxing)
+ .debug_str     0x0000000000007e07       0xa0 /tmp/ccqAUjzN.debug.temp.o
+                                        0x30a (size before relaxing)
+ .debug_str     0x0000000000007ea7      0x27a /tmp/ccixRcRr.debug.temp.o
+                                        0x816 (size before relaxing)
+ .debug_str     0x0000000000008121      0x163 /tmp/ccJlar4a.debug.temp.o
+                                        0x3a0 (size before relaxing)
+ .debug_str     0x0000000000008284       0x5a /tmp/ccigqxJc.debug.temp.o
+                                        0x2eb (size before relaxing)
+ .debug_str     0x00000000000082de      0x3e7 /tmp/ccgiwNBt.debug.temp.o
+                                        0x6a1 (size before relaxing)
+ .debug_str     0x00000000000086c5      0x187 /tmp/ccn9kzUh.debug.temp.o
+                                        0x462 (size before relaxing)
+ .debug_str     0x000000000000884c      0x1b2 /tmp/ccp1npS5.debug.temp.o
+                                        0x664 (size before relaxing)
+ .debug_str     0x00000000000089fe      0x273 /tmp/ccTjJwm2.debug.temp.o
+ .debug_str     0x00000000000089fe      0x211 /tmp/ccY9hhFm.debug.temp.o
+                                        0x4a5 (size before relaxing)
+ .debug_str     0x0000000000008c0f       0xa8 /tmp/cc3HGjtJ.debug.temp.o
+                                        0x2e1 (size before relaxing)
+
+.debug_line_str
+                0x0000000000000000     0x1c88
+ .debug_line_str
+                0x0000000000000000      0x585 /tmp/ccLwGfZR.ltrans0.ltrans.o
+                                        0x78c (size before relaxing)
+ .debug_line_str
+                0x0000000000000585       0xdf /tmp/ccahl0HJ.debug.temp.o
+                                        0x12a (size before relaxing)
+ .debug_line_str
+                0x0000000000000664       0x4b /tmp/cc5I5RkH.debug.temp.o
+                                        0x12a (size before relaxing)
+ .debug_line_str
+                0x00000000000006af      0x33b /tmp/ccAXFC62.debug.temp.o
+                                        0x38f (size before relaxing)
+ .debug_line_str
+                0x00000000000009ea      0x17a /tmp/ccycCi6N.debug.temp.o
+                                        0x259 (size before relaxing)
+ .debug_line_str
+                0x0000000000000b64       0xdd /tmp/ccdrvZ30.debug.temp.o
+                                        0x3c2 (size before relaxing)
+ .debug_line_str
+                0x0000000000000c41       0xc3 /tmp/ccWN227o.debug.temp.o
+                                        0x3eb (size before relaxing)
+ .debug_line_str
+                0x0000000000000d04       0xf3 /tmp/cc22kHC1.debug.temp.o
+                                        0x1c7 (size before relaxing)
+ .debug_line_str
+                0x0000000000000df7      0x1a5 /tmp/cc2Vmyv5.debug.temp.o
+                                        0x2dd (size before relaxing)
+ .debug_line_str
+                0x0000000000000f9c       0xfa /tmp/ccEeCm8r.debug.temp.o
+                                        0x2e8 (size before relaxing)
+ .debug_line_str
+                0x0000000000001096      0x106 /tmp/ccEyFdMr.debug.temp.o
+                                        0x2df (size before relaxing)
+ .debug_line_str
+                0x000000000000119c      0x195 /tmp/ccrDSvA0.debug.temp.o
+                                        0x390 (size before relaxing)
+ .debug_line_str
+                0x0000000000001331      0x181 /tmp/ccYyLnjQ.debug.temp.o
+                                        0x357 (size before relaxing)
+ .debug_line_str
+                0x00000000000014b2      0x133 /tmp/ccghneKK.debug.temp.o
+                                        0x23a (size before relaxing)
+ .debug_line_str
+                0x00000000000015e5       0x44 /tmp/ccqAUjzN.debug.temp.o
+                                        0x18d (size before relaxing)
+ .debug_line_str
+                0x0000000000001629       0x54 /tmp/ccixRcRr.debug.temp.o
+                                        0x265 (size before relaxing)
+ .debug_line_str
+                0x000000000000167d       0x3d /tmp/ccJlar4a.debug.temp.o
+                                        0x174 (size before relaxing)
+ .debug_line_str
+                0x00000000000016ba       0x51 /tmp/ccigqxJc.debug.temp.o
+                                        0x23a (size before relaxing)
+ .debug_line_str
+                0x000000000000170b      0x1df /tmp/ccgiwNBt.debug.temp.o
+                                        0x331 (size before relaxing)
+ .debug_line_str
+                0x00000000000018ea       0xd9 /tmp/ccn9kzUh.debug.temp.o
+                                        0x1de (size before relaxing)
+ .debug_line_str
+                0x00000000000019c3       0xd4 /tmp/ccp1npS5.debug.temp.o
+                                        0x28a (size before relaxing)
+ .debug_line_str
+                0x0000000000001a97       0x49 /tmp/ccTjJwm2.debug.temp.o
+                                        0x1a0 (size before relaxing)
+ .debug_line_str
+                0x0000000000001ae0       0xf2 /tmp/ccY9hhFm.debug.temp.o
+                                        0x20e (size before relaxing)
+ .debug_line_str
+                0x0000000000001bd2       0xb6 /tmp/cc3HGjtJ.debug.temp.o
+                                        0x173 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x400
+ .debug_frame   0x0000000000000000      0x400 /tmp/ccLwGfZR.ltrans0.ltrans.o

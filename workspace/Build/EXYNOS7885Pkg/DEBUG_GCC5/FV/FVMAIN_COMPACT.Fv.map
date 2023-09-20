@@ -1,0 +1,9 @@
+EFI_FV_TOTAL_SIZE = 0x200000
+EFI_FV_TAKEN_SIZE = 0xbb5b8
+EFI_FV_SPACE_SIZE = 0x144a48
+
+PrePi (Fixed Flash Address, BaseAddress=0x0803001160, EntryPoint=0x08030080e8, Type=TE)
+(GUID=3E401783-CC94-4FCD-97BC-BD35AC369D2F .textbaseaddress=0x0803001240 .databaseaddress=0x0803009ea0)
+
+
+
