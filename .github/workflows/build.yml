@@ -16,4 +16,5 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: iPad Air
-        path: ./workspace/*.*
+        path: ./workspace/UEFI
+
