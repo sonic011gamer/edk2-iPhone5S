@@ -66,10 +66,10 @@ static ARM_MEMORY_REGION_DESCRIPTOR_EX gDeviceMemoryDescriptorEx[] = {
     {"TZ0",            0x800000000, 0x100000, AddDev, MMAP_IO, UNCACHEABLE,  MmIO,   NS_DEVICE},
 //--------------------- DDR --------------------- */
 
-    {"CPU Vectors",       0x800C60000, 0x000010000, AddMem, SYS_MEM, SYS_MEM_CAP,  BsCode, WRITE_BACK},
-    {"HLOS 1",            0x800C70000, 0x77F490000, AddMem, SYS_MEM, SYS_MEM_CAP, Conv,   WRITE_BACK},
+    {"HLOS 1",            0x800C50000, 0x77f4b0000, AddMem, SYS_MEM, SYS_MEM_CAP, Conv,   WRITE_BACK},
     {"HLOS 2",            0x800100000, 0x03f600000, AddMem, SYS_MEM, SYS_MEM_CAP, Conv,   WRITE_BACK},
     {"UEFI Stack",        0x800C00000, 0x000040000, AddMem, MEM_RES, UNCACHEABLE,  RtCode,   NS_DEVICE},
+    {"CPU Vectors",       0x800C40000, 0x000010000, AddMem, SYS_MEM, SYS_MEM_CAP,  BsCode, WRITE_BACK},
     {"UEFI FD",           0x800300000, 0x000200000, AddMem, SYS_MEM, SYS_MEM_CAP, BsCode, WRITE_BACK},
     {"Display Reserved",  0x083d200000, 0xC00000, AddMem, MEM_RES, SYS_MEM_CAP, Reserv, WRITE_THROUGH_XN},
 
