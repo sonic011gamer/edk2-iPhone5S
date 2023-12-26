@@ -60,19 +60,18 @@ static ARM_MEMORY_REGION_DESCRIPTOR_EX gDeviceMemoryDescriptorEx[] = {
      MemLabel(32 Char.),  MemBase,    MemSize, BuildHob, ResourceType, ResourceAttribute, MemoryType, CacheAttributes
 */
 
-//--------------------- Register ---------------------
-    {"ASP",            0x83f800000, 0x800000,  AddDev, MMAP_IO, UNCACHEABLE,  MmIO,   NS_DEVICE},
-    {"TZ1",            0x83f700000, 0x100000, AddDev, MMAP_IO, UNCACHEABLE,  MmIO,   NS_DEVICE},
-    {"TZ0",            0x800000000, 0x100000, AddDev, MMAP_IO, UNCACHEABLE,  MmIO,   NS_DEVICE},
 //--------------------- DDR --------------------- */
-
-    //{"HLOS 1",            0x800C50000, 0x77f4b0000, AddMem, SYS_MEM, SYS_MEM_CAP, Conv,   WRITE_BACK},
-    {"Dxe Heap",          0x800D00000, 0x03300000, AddMem, SYS_MEM, SYS_MEM_CAP,  Conv,   WRITE_BACK},
-    {"HLOS 2",            0x800100000, 0x020000000, AddMem, SYS_MEM, SYS_MEM_CAP, Conv,   WRITE_BACK},
-    {"UEFI Stack",        0x800C00000, 0x000040000, AddMem, MEM_RES, UNCACHEABLE,  RtCode,   NS_DEVICE},
-    {"CPU Vectors",       0x800C40000, 0x000010000, AddMem, SYS_MEM, SYS_MEM_CAP,  BsCode, WRITE_BACK},
+    {"TrustZone 0",       0x800000000, 0x000100000, AddDev, MMAP_IO, UNCACHEABLE, MmIO,  NS_DEVICE},
+    {"HLOS 0",            0x800100000, 0x000200000, AddMem, SYS_MEM, SYS_MEM_CAP, Conv,   WRITE_BACK},
     {"UEFI FD",           0x800300000, 0x000200000, AddMem, SYS_MEM, SYS_MEM_CAP, BsCode, WRITE_BACK},
-    {"Display Reserved",  0x083d200000, 0xC00000, AddMem, MEM_RES, SYS_MEM_CAP, Reserv, WRITE_THROUGH_XN},
+    {"HLOS 1",            0x800500000, 0x000700000, AddMem, SYS_MEM, SYS_MEM_CAP, Conv,   WRITE_BACK},
+    {"UEFI Stack",        0x800C00000, 0x000040000, AddMem, MEM_RES, UNCACHEABLE, RtCode, NS_DEVICE},
+    {"CPU Vectors",       0x800C40000, 0x000010000, AddMem, SYS_MEM, SYS_MEM_CAP, BsCode, WRITE_BACK},
+    {"HLOS 2",            0x800C50000, 0x03C5B0000, AddMem, SYS_MEM, SYS_MEM_CAP, Conv,   WRITE_BACK},
+    {"Display Reserved",  0x83d200000, 0x000C00000, AddMem, MEM_RES, SYS_MEM_CAP, Reserv, WRITE_THROUGH_XN},
+    {"HLOS 3",            0x83DE00000, 0x001900000, AddMem, SYS_MEM, SYS_MEM_CAP, Conv,   WRITE_BACK},
+    {"TZ1",               0x83F700000, 0x000100000, AddDev, MMAP_IO, UNCACHEABLE, MmIO,   NS_DEVICE},
+    {"ASP",               0x83f800000, 0x000800000, AddDev, MMAP_IO, UNCACHEABLE, MmIO,   NS_DEVICE},
 
 
     /* Terminator for MMU */
