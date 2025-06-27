@@ -41,7 +41,7 @@
   gEXYNOS7885PkgTokenSpaceGuid.PcdUefiMemPoolBase|0|UINT64|0x00000a106
   gEXYNOS7885PkgTokenSpaceGuid.PcdUefiMemPoolSize|0|UINT32|0x00000a107
 
-  gEmbeddedTokenSpaceGuid.PcdPrePiStackBase|0x800C00000|UINT64|0x0000a406
+  gEXYNOS7885PkgTokenSpaceGuid.PcdPrePiStackBase|0x800C00000|UINT64|0x0000a406
 
   # Simple FrameBuffer
   gEfiMdeModulePkgTokenSpaceGuid.PcdEmuVariableNvModeEnable|TRUE|BOOLEAN|1

@@ -20,7 +20,7 @@ GCC_ASM_EXPORT (_ModuleEntryPoint)
 .global _StackSize
 
 _StackBase:
-  .quad FixedPcdGet32(PcdPrePiStackBase)
+  .quad FixedPcdGet64(PcdPrePiStackBase)
 
 _StackSize:
   .quad FixedPcdGet32(PcdPrePiStackSize)

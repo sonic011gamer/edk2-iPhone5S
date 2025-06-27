@@ -120,6 +120,8 @@ VOID Main (IN  UINT64  StartTimeStamp)
   Status = DecompressFirstFv ();
   ASSERT_EFI_ERROR (Status);
 
+  DEBUG((EFI_D_LOAD | EFI_D_INFO, "Loading DXEMain\n"));
+
   // Load the DXE Core and transfer control to it
   Status = LoadDxeCoreFromFv (NULL, 0);
   ASSERT_EFI_ERROR (Status);

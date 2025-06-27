@@ -98,7 +98,7 @@
   gEmbeddedTokenSpaceGuid.PcdMemoryTypeEfiLoaderCode
   gEmbeddedTokenSpaceGuid.PcdMemoryTypeEfiLoaderData
 
-  gEmbeddedTokenSpaceGuid.PcdPrePiStackBase
+  gEXYNOS7885PkgTokenSpaceGuid.PcdPrePiStackBase
   gEmbeddedTokenSpaceGuid.PcdPrePiStackSize
   gEXYNOS7885PkgTokenSpaceGuid.PcdUefiMemPoolBase
   gEXYNOS7885PkgTokenSpaceGuid.PcdUefiMemPoolSize
