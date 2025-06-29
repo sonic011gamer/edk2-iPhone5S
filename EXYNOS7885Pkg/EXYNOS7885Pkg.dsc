@@ -47,6 +47,10 @@
   PlatformBootManagerLib|ArmPkg/Library/PlatformBootManagerLib/PlatformBootManagerLib.inf
   CustomizedDisplayLib|MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib.inf
 
+  # SoC Drivers
+  InterruptsLib|EXYNOS7885Pkg/Library/InterruptsLib/InterruptsLib.inf
+
+
   # UiApp dependencies
   ReportStatusCodeLib|MdeModulePkg/Library/DxeReportStatusCodeLib/DxeReportStatusCodeLib.inf
   FileExplorerLib|MdeModulePkg/Library/FileExplorerLib/FileExplorerLib.inf
@@ -190,8 +194,10 @@
 
   MdeModulePkg/Universal/Variable/RuntimeDxe/VariableRuntimeDxe.inf
 
-  ArmPkg/Drivers/ArmGic/ArmGicDxe.inf
-  ArmPkg/Drivers/TimerDxe/TimerDxe.inf
+  EXYNOS7885Pkg/Drivers/InterruptDxe/InterruptDxe.inf
+  EXYNOS7885Pkg/Drivers/TimerDxe/TimerDxe.inf
+#  ArmPkg/Drivers/ArmGic/ArmGicDxe.inf
+#  ArmPkg/Drivers/TimerDxe/TimerDxe.inf
 
   MdeModulePkg/Universal/WatchdogTimerDxe/WatchdogTimer.inf
 
