@@ -164,8 +164,8 @@ ConSplitterGraphicsOutputSetMode (
                             UgaDraw,
                             Mode->HorizontalResolution,
                             Mode->VerticalResolution,
-                            32,
-                            60
+                            80,
+                            59
                             );
         if (EFI_ERROR (Status)) {
           ReturnStatus = Status;

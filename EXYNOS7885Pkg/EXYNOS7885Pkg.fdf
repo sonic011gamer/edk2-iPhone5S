@@ -49,11 +49,6 @@ NumBlocks     = 0x200
 #
 ################################################################################
 
-# from ArmVirtPkg/ArmVirtQemuKernel.fdf
-#
-# Implement the Linux kernel header layout so that the loader will identify
-# it as something bootable, and execute it with a FDT pointer in x0 or r2.
-#
 0x00000000|0x00200000
 gArmTokenSpaceGuid.PcdFvBaseAddress|gArmTokenSpaceGuid.PcdFvSize
 FV = FVMAIN_COMPACT
@@ -90,10 +85,15 @@ READ_STATUS        = TRUE
 READ_LOCK_CAP      = TRUE
 READ_LOCK_STATUS   = TRUE
 
-  APRIORI DXE {
-    INF MdeModulePkg/Universal/PCD/Dxe/Pcd.inf
-  }
-
+APRIORI DXE {
+  #
+  # PI DXE Drivers producing Architectural Protocols (EFI Services)
+  #
+  INF MdeModulePkg/Universal/PCD/Dxe/Pcd.inf
+  INF ArmPkg/Drivers/CpuDxe/CpuDxe.inf
+  INF EXYNOS7885Pkg/Drivers/InterruptDxe/InterruptDxe.inf
+  INF EXYNOS7885Pkg/Drivers/TimerDxe/TimerDxe.inf
+}
   INF MdeModulePkg/Core/Dxe/DxeMain.inf
 
   #
@@ -112,8 +112,8 @@ READ_LOCK_STATUS   = TRUE
   # Multiple Console IO support
   #
   INF MdeModulePkg/Universal/Console/ConPlatformDxe/ConPlatformDxe.inf
-  INF EXYNOS7885Pkg/Drivers/ConSplitterDxe/ConSplitterDxe.inf
-  INF EXYNOS7885Pkg/Drivers/GraphicsConsoleDxe/GraphicsConsoleDxe.inf
+  INF MdeModulePkg/Universal/Console/ConSplitterDxe/ConSplitterDxe.inf
+  INF MdeModulePkg/Universal/Console/GraphicsConsoleDxe/GraphicsConsoleDxe.inf
   INF MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe.inf
   INF MdeModulePkg/Universal/SerialDxe/SerialDxe.inf
 
@@ -167,6 +167,7 @@ READ_LOCK_STATUS   = TRUE
   INF MdeModulePkg/Universal/Disk/PartitionDxe/PartitionDxe.inf
   INF FatPkg/EnhancedFatDxe/Fat.inf
   INF MdeModulePkg/Universal/Disk/UnicodeCollation/EnglishDxe/EnglishDxe.inf
+  # INF MdeModulePkg/Universal/FvSimpleFileSystemDxe/FvSimpleFileSystemDxe.inf
 
   INF MdeModulePkg/Universal/Variable/RuntimeDxe/VariableRuntimeDxe.inf
 
@@ -227,8 +228,14 @@ READ_LOCK_STATUS   = TRUE
 
   FILE FV_IMAGE = 9E21FD93-9C72-4c15-8C4B-E77F1DB2D792 {
     SECTION GUIDED EE4E5898-3914-4259-9D6E-DC7BD79403CF PROCESSING_REQUIRED = TRUE {
+     #
+     # These firmware volumes will have files placed in them uncompressed,
+     # and then both firmware volumes will be compressed in a single
+     # compression operation in order to achieve better overall compression.
+     #
       SECTION FV_IMAGE = FVMAIN
     }
   }
+################################################################################
 
 !include EXYNOS7885Pkg/CommonFdf.fdf.inc

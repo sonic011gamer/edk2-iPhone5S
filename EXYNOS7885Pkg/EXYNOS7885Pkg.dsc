@@ -25,6 +25,7 @@
   BUILD_TARGETS                  = DEBUG|RELEASE
   SKUID_IDENTIFIER               = DEFAULT
   FLASH_DEFINITION               = EXYNOS7885Pkg/EXYNOS7885Pkg.fdf
+  DEFINE USE_SCREEN_FOR_SERIAL_OUTPUT = 0
 
 !include EXYNOS7885Pkg/CommonDsc.dsc.inc
 
@@ -80,7 +81,11 @@
   # SimpleFbDxe
   FrameBufferBltLib|EXYNOS7885Pkg/Library/FrameBufferBltLib/FrameBufferBltLib.inf
 
+!if $(USE_SCREEN_FOR_SERIAL_OUTPUT) == 1
   SerialPortLib|EXYNOS7885Pkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib.inf
+!else
+  SerialPortLib|MdePkg/Library/BaseSerialPortLibNull/BaseSerialPortLibNull.inf
+!endif
   PlatformBootManagerLib|EXYNOS7885Pkg/Library/PlatformBootManagerLib/PlatformBootManagerLib.inf
   MemoryInitPeiLib|EXYNOS7885Pkg/Library/MemoryInitPeiLib/PeiMemoryAllocationLib.inf
   PlatformPeiLib|EXYNOS7885Pkg/Library/PlatformPeiLib/PlatformPeiLib.inf
@@ -108,16 +113,12 @@
   gEfiMdePkgTokenSpaceGuid.PcdDefaultTerminalType|4
 
   gEfiMdeModulePkgTokenSpaceGuid.PcdFirmwareVersionString|L"Cyclone"
-
+  # Memory protection
+  gEfiMdeModulePkgTokenSpaceGuid.PcdImageProtectionPolicy|0x00000000
+  
   # We only boot one processor here!
   gArmPlatformTokenSpaceGuid.PcdCoreCount|1
   gArmPlatformTokenSpaceGuid.PcdClusterCount|1
-
-  #
-  # ARM General Interrupt Controller
-  #
-  gArmTokenSpaceGuid.PcdGicDistributorBase|0x12301000
-  gArmTokenSpaceGuid.PcdGicInterruptInterfaceBase|0x12302000
 
   gArmTokenSpaceGuid.PcdArmArchTimerIntrNum|0x12
   gArmTokenSpaceGuid.PcdArmArchTimerVirtIntrNum|0x13
@@ -146,14 +147,14 @@
   gEfiMdeModulePkgTokenSpaceGuid.PcdAcpiExposedTableVersions|0x20
 
   [PcdsDynamicDefault.common]
-  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoHorizontalResolution|0 # /8 = column
-  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoVerticalResolution|0 #/19 = row
-  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoHorizontalResolution|0
-  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoVerticalResolution|0
-  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutColumn|0
-  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutRow|0
-  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|0
-  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|0
+  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoHorizontalResolution|80 # /8 = column
+  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoVerticalResolution|59 #/19 = row
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoHorizontalResolution|640
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoVerticalResolution|1136
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutColumn|80
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutRow|59
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|80
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|59
 ################################################################################
 #
 # Components Section - list of all EDK II Modules needed by this Platform
@@ -187,8 +188,8 @@
   EmbeddedPkg/MetronomeDxe/MetronomeDxe.inf
 
   MdeModulePkg/Universal/Console/ConPlatformDxe/ConPlatformDxe.inf
-  EXYNOS7885Pkg/Drivers/ConSplitterDxe/ConSplitterDxe.inf
-  EXYNOS7885Pkg/Drivers/GraphicsConsoleDxe/GraphicsConsoleDxe.inf
+  MdeModulePkg/Universal/Console/ConSplitterDxe/ConSplitterDxe.inf
+  MdeModulePkg/Universal/Console/GraphicsConsoleDxe/GraphicsConsoleDxe.inf
   MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe.inf
   MdeModulePkg/Universal/SerialDxe/SerialDxe.inf
 

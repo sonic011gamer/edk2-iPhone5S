@@ -803,14 +803,14 @@ ConSplitterTextOutConstructor (
   // Setup the default console to 80 x 25 and mode to 0
   //
   ConOutPrivate->TextOutQueryData[0].Columns = 80;
-  ConOutPrivate->TextOutQueryData[0].Rows    = 25;
+  ConOutPrivate->TextOutQueryData[0].Rows    = 59;
   TextOutSetMode (ConOutPrivate, 0);
 
   if (FeaturePcdGet (PcdConOutUgaSupport)) {
     //
     // Setup the UgaDraw to 800 x 600 x 32 bits per pixel, 60Hz.
     //
-    ConSplitterUgaDrawSetMode (&ConOutPrivate->UgaDraw, 800, 600, 32, 60);
+    ConSplitterUgaDrawSetMode (&ConOutPrivate->UgaDraw, 640, 1136, 32, 60);
   }
 
   if (FeaturePcdGet (PcdConOutGopSupport)) {
@@ -835,10 +835,10 @@ ConSplitterTextOutConstructor (
 
     Info                       = &ConOutPrivate->GraphicsOutputModeBuffer[0];
     Info->Version              = 0;
-    Info->HorizontalResolution = 800;
-    Info->VerticalResolution   = 600;
+    Info->HorizontalResolution = 640;
+    Info->VerticalResolution   = 1136;
     Info->PixelFormat          = PixelBltOnly;
-    Info->PixelsPerScanLine    = 800;
+    Info->PixelsPerScanLine    = 640;
     CopyMem (ConOutPrivate->GraphicsOutput.Mode->Info, Info, sizeof (EFI_GRAPHICS_OUTPUT_MODE_INFORMATION));
     ConOutPrivate->GraphicsOutput.Mode->SizeOfInfo = sizeof (EFI_GRAPHICS_OUTPUT_MODE_INFORMATION);
 
@@ -2931,7 +2931,7 @@ ConSplitterAddGraphicsOutputMode (
       //
       for (Index = 0; Index < CurrentGraphicsOutputMode->MaxMode; Index++) {
         Mode = &Private->GraphicsOutputModeBuffer[Index];
-        if ((Mode->HorizontalResolution == 800) && (Mode->VerticalResolution == 600)) {
+        if ((Mode->HorizontalResolution == 640) && (Mode->VerticalResolution == 1136)) {
           CurrentIndex = Index;
           break;
         }
@@ -3028,8 +3028,8 @@ Done:
       //
       // If user defined mode is not valid for display device, set to the default mode 800x600.
       //
-      (Private->GraphicsOutputModeBuffer[0]).HorizontalResolution = 800;
-      (Private->GraphicsOutputModeBuffer[0]).VerticalResolution   = 600;
+      (Private->GraphicsOutputModeBuffer[0]).HorizontalResolution = 640;
+      (Private->GraphicsOutputModeBuffer[0]).VerticalResolution   = 1136;
       Status                                                      = Private->GraphicsOutput.SetMode (&Private->GraphicsOutput, 0);
     }
   }
@@ -3262,8 +3262,8 @@ ConSplitterTextOutAddDevice (
       if (EFI_ERROR (Status)) {
         Status = ConSplitterUgaDrawSetMode (
                    &Private->UgaDraw,
-                   800,
-                   600,
+                   640,
+                   1136,
                    32,
                    60
                    );
@@ -3413,7 +3413,7 @@ ConSplitterTextOutDeleteDevice (
     Private->CurrentNumberOfConsoles     = 0;
     Private->TextOutMode.MaxMode         = 1;
     Private->TextOutQueryData[0].Columns = 80;
-    Private->TextOutQueryData[0].Rows    = 25;
+    Private->TextOutQueryData[0].Rows    = 59;
     TextOutSetMode (Private, 0);
 
     return EFI_SUCCESS;
